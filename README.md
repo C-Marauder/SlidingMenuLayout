@@ -1,8 +1,13 @@
 # SlidingMenuLayout
-kotlin 侧滑菜单
-1.使用简单,无需在xml中写布局
 
-    SlidingMenuBuilder(this)
+kotlin 侧滑菜单
+
+1. compile 'www.xqy.cn.library:library:1.0.0'
+
+2. 使用简单,无需在xml中写布局
+
+
+       SlidingMenuBuilder(this)
     
                 .bindMenuView(R.layout.drawer_menu)
                 
