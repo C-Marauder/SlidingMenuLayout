@@ -3,9 +3,13 @@ kotlin 侧滑菜单
 1.使用简单,无需在xml中写布局
 
     SlidingMenuBuilder(this)
+    
                 .bindMenuView(R.layout.drawer_menu)
+                
                 .bindToolbar(mToolbar)
+                
                 .setDragListener(object :DragListener{
+                
                     override fun isOpened() {
                         Toast.makeText(this@MainActivity,"isOpened",Toast.LENGTH_SHORT).show()
                     }
