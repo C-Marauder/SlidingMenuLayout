@@ -7,7 +7,8 @@ kotlin 侧滑菜单
 2. 使用简单,无需在xml中写布局
 
 
-       SlidingMenuBuilder(this)
+
+                SlidingMenuBuilder(this)
     
                 .bindMenuView(R.layout.drawer_menu)
                 
