@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/crionline/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="919f0dfe192fb4e063e7dacadee7f8bb9a2672a9">
+        <dex dex="/Users/crionline/Desktop/SlidingMenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/annotations-13.0_8dcecbef0fc69480c5e8b2ae0830ec35349ba231/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/crionline/Documents/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/crionline/Desktop/SlidingMenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_93306c085f3821a1ed1a2e1830ae3686e4cf95d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/crionline/.android/build-cache/ea510f47783a5e73b490b41267aa0d2935e63afa/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/crionline/Desktop/SlidingMenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2afc0dc958a18599f0bded4a152e048e14429c39/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/crionline/.android/build-cache/c175e73aa019ec91d5812cbc4b4e6d12d5adbcd6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/crionline/Desktop/SlidingMenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fcbfa78b00039f59d63b2d27caceadb3de36b219/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/crionline/.android/build-cache/e098a8776c6432901ebff1f04bd8a82c12cc02a3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/crionline/Desktop/SlidingMenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b526bce031ab4bbc3eb10e4c05aed47f939748a1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/crionline/.android/build-cache/413d95c83f219f191f9d42b28ced1f2ab8864f8c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/Users/crionline/Desktop/SlidingMenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5724bd2eeb9543dfa89ad2399c82950fd43c7baa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/crionline/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.1.2-3/552a40eb47669b78f0f194d526cb21b3aa1f8319/kotlin-stdlib-1.1.2-3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="552a40eb47669b78f0f194d526cb21b3aa1f8319">
+        <dex dex="/Users/crionline/Desktop/SlidingMenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/kotlin-stdlib-1.1.2-3_4be0cf7655e48c67eead9cd64eae89f2d954f202/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/crionline/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jre7/1.1.2-3/8360677e3d1b9bc9716efead9a4e740c428da2ff/kotlin-stdlib-jre7-1.1.2-3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8360677e3d1b9bc9716efead9a4e740c428da2ff">
+        <dex dex="/Users/crionline/Desktop/SlidingMenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/kotlin-stdlib-jre7-1.1.2-3_74cb8ccc619a205a98e7cb8c362c54008d82f1ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/crionline/Desktop/SlidingMenu/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c3974e53341615f6183d1eee5c6289a9e78d5b9f">
+        <dex dex="/Users/crionline/Desktop/SlidingMenu/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c22fe54decaca50d4086a62db9898eecd494bb15/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/crionline/Desktop/SlidingMenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c113461ee6539f7b6ee267a620b2c330512abce4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/crionline/.android/build-cache/88f6fb95434bd40ee6d91850ac849377a1f23eda/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/crionline/Desktop/SlidingMenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a1491422f167bba338e6e29bd75d19a056ac5759/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/crionline/.android/build-cache/e3c3e053dcaa473ffdc5c0d78393490d6ee74d68/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/crionline/Desktop/SlidingMenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cb5594f98589114dac367085b48892a4e03496c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/crionline/.android/build-cache/07b8efcf0e5d51c1332bd1289f30b7471b64742f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/crionline/Desktop/SlidingMenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a97f80769e8ef24417ca273368f31939e30414ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/crionline/.android/build-cache/290b0f3d6dc665e5509c2499254f46d065bb4fe2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/crionline/Desktop/SlidingMenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ef8ebd2b0116174f569b953e93ce04ae5c62083c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/crionline/Desktop/SlidingMenu/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/crionline/Desktop/SlidingMenu/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_df89e71c80978b6e7b777e9293fe5bad1af92bcd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/crionline/.android/build-cache/657743b3c4d32eb51863264763843892137751fe/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/Users/crionline/Desktop/SlidingMenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_888579647205cc9f79e34055f6448dbdbe6f92db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/crionline/.android/build-cache/f1cdaead873e32287386a6936b9715ab1649f0ff/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/crionline/Desktop/SlidingMenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4385e3044b6fec979ececa7d0c9a9a3bff0a9003/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/crionline/.android/build-cache/0dc173a1c384358ea746717bedba7dbc44d5ec0b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/crionline/Desktop/SlidingMenu/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_26edc4a2b11f5eab5ff7cb35aebf67da2771697f/classes.dex" />
+    </item>
+
+</items>
