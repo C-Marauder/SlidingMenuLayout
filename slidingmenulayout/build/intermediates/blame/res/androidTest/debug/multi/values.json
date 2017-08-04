@@ -4035,17 +4035,17 @@
                     "startLine": 346,
                     "startColumn": 4,
                     "startOffset": 34536,
-                    "endColumn": 48,
-                    "endOffset": 34580
+                    "endColumn": 45,
+                    "endOffset": 34577
                 },
                 "from": {
-                    "file": "/Users/crionline/Desktop/SlidingMenu/slidingmenulayout/build/intermediates/bundles/debug/res/values/values.xml",
+                    "file": "/Users/crionline/.android/build-cache/5ad14d9952bef362d4bbfd9b4ba7c15283bc1931/output/res/values/values.xml",
                     "position": {
-                        "startLine": 2,
+                        "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 55,
-                        "endColumn": 48,
-                        "endOffset": 99
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
                     }
                 }
             },
@@ -4053,9 +4053,9 @@
                 "to": {
                     "startLine": 347,
                     "startColumn": 4,
-                    "startOffset": 34585,
+                    "startOffset": 34582,
                     "endColumn": 52,
-                    "endOffset": 34633
+                    "endOffset": 34630
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -4072,9 +4072,9 @@
                 "to": {
                     "startLine": 348,
                     "startColumn": 4,
-                    "startOffset": 34638,
+                    "startOffset": 34635,
                     "endColumn": 70,
-                    "endOffset": 34704
+                    "endOffset": 34701
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -4091,9 +4091,9 @@
                 "to": {
                     "startLine": 349,
                     "startColumn": 4,
-                    "startOffset": 34709,
+                    "startOffset": 34706,
                     "endColumn": 77,
-                    "endOffset": 34782
+                    "endOffset": 34779
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -4110,9 +4110,9 @@
                 "to": {
                     "startLine": 350,
                     "startColumn": 4,
-                    "startOffset": 34787,
+                    "startOffset": 34784,
                     "endColumn": 89,
-                    "endOffset": 34872
+                    "endOffset": 34869
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -4129,9 +4129,9 @@
                 "to": {
                     "startLine": 351,
                     "startColumn": 4,
-                    "startOffset": 34877,
+                    "startOffset": 34874,
                     "endColumn": 87,
-                    "endOffset": 34960
+                    "endOffset": 34957
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -4148,9 +4148,9 @@
                 "to": {
                     "startLine": 352,
                     "startColumn": 4,
-                    "startOffset": 34965,
+                    "startOffset": 34962,
                     "endColumn": 95,
-                    "endOffset": 35056
+                    "endOffset": 35053
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -4167,10 +4167,10 @@
                 "to": {
                     "startLine": 353,
                     "startColumn": 4,
-                    "startOffset": 35061,
+                    "startOffset": 35058,
                     "endLine": 359,
                     "endColumn": 12,
-                    "endOffset": 35557
+                    "endOffset": 35554
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -4188,9 +4188,9 @@
                 "to": {
                     "startLine": 360,
                     "startColumn": 4,
-                    "startOffset": 35562,
+                    "startOffset": 35559,
                     "endColumn": 88,
-                    "endOffset": 35646
+                    "endOffset": 35643
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -4207,10 +4207,10 @@
                 "to": {
                     "startLine": 361,
                     "startColumn": 4,
-                    "startOffset": 35651,
+                    "startOffset": 35648,
                     "endLine": 364,
                     "endColumn": 12,
-                    "endOffset": 35893
+                    "endOffset": 35890
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -4228,10 +4228,10 @@
                 "to": {
                     "startLine": 365,
                     "startColumn": 4,
-                    "startOffset": 35898,
+                    "startOffset": 35895,
                     "endLine": 368,
                     "endColumn": 12,
-                    "endOffset": 36174
+                    "endOffset": 36171
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -4249,10 +4249,10 @@
                 "to": {
                     "startLine": 369,
                     "startColumn": 4,
-                    "startOffset": 36179,
+                    "startOffset": 36176,
                     "endLine": 373,
                     "endColumn": 12,
-                    "endOffset": 36459
+                    "endOffset": 36456
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -4270,10 +4270,10 @@
                 "to": {
                     "startLine": 374,
                     "startColumn": 4,
-                    "startOffset": 36464,
+                    "startOffset": 36461,
                     "endLine": 379,
                     "endColumn": 12,
-                    "endOffset": 36852
+                    "endOffset": 36849
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -4291,10 +4291,10 @@
                 "to": {
                     "startLine": 380,
                     "startColumn": 4,
-                    "startOffset": 36857,
+                    "startOffset": 36854,
                     "endLine": 386,
                     "endColumn": 12,
-                    "endOffset": 37329
+                    "endOffset": 37326
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -4312,10 +4312,10 @@
                 "to": {
                     "startLine": 387,
                     "startColumn": 4,
-                    "startOffset": 37334,
+                    "startOffset": 37331,
                     "endLine": 390,
                     "endColumn": 12,
-                    "endOffset": 37551
+                    "endOffset": 37548
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -4333,10 +4333,10 @@
                 "to": {
                     "startLine": 391,
                     "startColumn": 4,
-                    "startOffset": 37556,
+                    "startOffset": 37553,
                     "endLine": 394,
                     "endColumn": 12,
-                    "endOffset": 37773
+                    "endOffset": 37770
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -4354,10 +4354,10 @@
                 "to": {
                     "startLine": 395,
                     "startColumn": 4,
-                    "startOffset": 37778,
+                    "startOffset": 37775,
                     "endLine": 399,
                     "endColumn": 12,
-                    "endOffset": 38041
+                    "endOffset": 38038
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -4375,10 +4375,10 @@
                 "to": {
                     "startLine": 400,
                     "startColumn": 4,
-                    "startOffset": 38046,
+                    "startOffset": 38043,
                     "endLine": 403,
                     "endColumn": 12,
-                    "endOffset": 38268
+                    "endOffset": 38265
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -4396,10 +4396,10 @@
                 "to": {
                     "startLine": 404,
                     "startColumn": 4,
-                    "startOffset": 38273,
+                    "startOffset": 38270,
                     "endLine": 407,
                     "endColumn": 12,
-                    "endOffset": 38498
+                    "endOffset": 38495
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -4417,10 +4417,10 @@
                 "to": {
                     "startLine": 408,
                     "startColumn": 4,
-                    "startOffset": 38503,
+                    "startOffset": 38500,
                     "endLine": 411,
                     "endColumn": 12,
-                    "endOffset": 38728
+                    "endOffset": 38725
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -4438,10 +4438,10 @@
                 "to": {
                     "startLine": 412,
                     "startColumn": 4,
-                    "startOffset": 38733,
+                    "startOffset": 38730,
                     "endLine": 415,
                     "endColumn": 12,
-                    "endOffset": 38958
+                    "endOffset": 38955
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -4459,10 +4459,10 @@
                 "to": {
                     "startLine": 416,
                     "startColumn": 4,
-                    "startOffset": 38963,
+                    "startOffset": 38960,
                     "endLine": 419,
                     "endColumn": 12,
-                    "endOffset": 39188
+                    "endOffset": 39185
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -4480,10 +4480,10 @@
                 "to": {
                     "startLine": 420,
                     "startColumn": 4,
-                    "startOffset": 39193,
+                    "startOffset": 39190,
                     "endLine": 423,
                     "endColumn": 12,
-                    "endOffset": 39415
+                    "endOffset": 39412
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -4501,10 +4501,10 @@
                 "to": {
                     "startLine": 424,
                     "startColumn": 4,
-                    "startOffset": 39420,
+                    "startOffset": 39417,
                     "endLine": 427,
                     "endColumn": 12,
-                    "endOffset": 39654
+                    "endOffset": 39651
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -4522,10 +4522,10 @@
                 "to": {
                     "startLine": 428,
                     "startColumn": 4,
-                    "startOffset": 39659,
+                    "startOffset": 39656,
                     "endLine": 431,
                     "endColumn": 12,
-                    "endOffset": 39880
+                    "endOffset": 39877
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -4543,10 +4543,10 @@
                 "to": {
                     "startLine": 432,
                     "startColumn": 4,
-                    "startOffset": 39885,
+                    "startOffset": 39882,
                     "endLine": 435,
                     "endColumn": 12,
-                    "endOffset": 40125
+                    "endOffset": 40122
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -4564,10 +4564,10 @@
                 "to": {
                     "startLine": 436,
                     "startColumn": 4,
-                    "startOffset": 40130,
+                    "startOffset": 40127,
                     "endLine": 439,
                     "endColumn": 12,
-                    "endOffset": 40355
+                    "endOffset": 40352
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -4585,10 +4585,10 @@
                 "to": {
                     "startLine": 440,
                     "startColumn": 4,
-                    "startOffset": 40360,
+                    "startOffset": 40357,
                     "endLine": 443,
                     "endColumn": 12,
-                    "endOffset": 40603
+                    "endOffset": 40600
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -4606,10 +4606,10 @@
                 "to": {
                     "startLine": 444,
                     "startColumn": 4,
-                    "startOffset": 40608,
+                    "startOffset": 40605,
                     "endLine": 447,
                     "endColumn": 12,
-                    "endOffset": 40822
+                    "endOffset": 40819
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -4627,10 +4627,10 @@
                 "to": {
                     "startLine": 448,
                     "startColumn": 4,
-                    "startOffset": 40827,
+                    "startOffset": 40824,
                     "endLine": 452,
                     "endColumn": 12,
-                    "endOffset": 41105
+                    "endOffset": 41102
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -4648,10 +4648,10 @@
                 "to": {
                     "startLine": 453,
                     "startColumn": 4,
-                    "startOffset": 41110,
+                    "startOffset": 41107,
                     "endLine": 456,
                     "endColumn": 12,
-                    "endOffset": 41313
+                    "endOffset": 41310
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -4669,10 +4669,10 @@
                 "to": {
                     "startLine": 457,
                     "startColumn": 4,
-                    "startOffset": 41318,
+                    "startOffset": 41315,
                     "endLine": 459,
                     "endColumn": 12,
-                    "endOffset": 41444
+                    "endOffset": 41441
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -4690,10 +4690,10 @@
                 "to": {
                     "startLine": 460,
                     "startColumn": 4,
-                    "startOffset": 41449,
+                    "startOffset": 41446,
                     "endLine": 463,
                     "endColumn": 12,
-                    "endOffset": 41671
+                    "endOffset": 41668
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -4711,10 +4711,10 @@
                 "to": {
                     "startLine": 464,
                     "startColumn": 4,
-                    "startOffset": 41676,
+                    "startOffset": 41673,
                     "endLine": 467,
                     "endColumn": 12,
-                    "endOffset": 41917
+                    "endOffset": 41914
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -4732,10 +4732,10 @@
                 "to": {
                     "startLine": 468,
                     "startColumn": 4,
-                    "startOffset": 41922,
+                    "startOffset": 41919,
                     "endLine": 471,
                     "endColumn": 12,
-                    "endOffset": 42142
+                    "endOffset": 42139
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -4753,10 +4753,10 @@
                 "to": {
                     "startLine": 472,
                     "startColumn": 4,
-                    "startOffset": 42147,
+                    "startOffset": 42144,
                     "endLine": 475,
                     "endColumn": 12,
-                    "endOffset": 42389
+                    "endOffset": 42386
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -4774,10 +4774,10 @@
                 "to": {
                     "startLine": 476,
                     "startColumn": 4,
-                    "startOffset": 42394,
+                    "startOffset": 42391,
                     "endLine": 479,
                     "endColumn": 12,
-                    "endOffset": 42610
+                    "endOffset": 42607
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -4795,10 +4795,10 @@
                 "to": {
                     "startLine": 480,
                     "startColumn": 4,
-                    "startOffset": 42615,
+                    "startOffset": 42612,
                     "endLine": 483,
                     "endColumn": 12,
-                    "endOffset": 42855
+                    "endOffset": 42852
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -4816,10 +4816,10 @@
                 "to": {
                     "startLine": 484,
                     "startColumn": 4,
-                    "startOffset": 42860,
+                    "startOffset": 42857,
                     "endLine": 487,
                     "endColumn": 12,
-                    "endOffset": 43131
+                    "endOffset": 43128
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -4837,10 +4837,10 @@
                 "to": {
                     "startLine": 488,
                     "startColumn": 4,
-                    "startOffset": 43136,
+                    "startOffset": 43133,
                     "endLine": 491,
                     "endColumn": 12,
-                    "endOffset": 43432
+                    "endOffset": 43429
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -4858,10 +4858,10 @@
                 "to": {
                     "startLine": 492,
                     "startColumn": 4,
-                    "startOffset": 43437,
+                    "startOffset": 43434,
                     "endLine": 495,
                     "endColumn": 12,
-                    "endOffset": 43756
+                    "endOffset": 43753
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -4879,10 +4879,10 @@
                 "to": {
                     "startLine": 496,
                     "startColumn": 4,
-                    "startOffset": 43761,
+                    "startOffset": 43758,
                     "endLine": 499,
                     "endColumn": 12,
-                    "endOffset": 44047
+                    "endOffset": 44044
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -4900,10 +4900,10 @@
                 "to": {
                     "startLine": 500,
                     "startColumn": 4,
-                    "startOffset": 44052,
+                    "startOffset": 44049,
                     "endLine": 503,
                     "endColumn": 12,
-                    "endOffset": 44361
+                    "endOffset": 44358
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -4921,9 +4921,9 @@
                 "to": {
                     "startLine": 504,
                     "startColumn": 4,
-                    "startOffset": 44366,
+                    "startOffset": 44363,
                     "endColumn": 136,
-                    "endOffset": 44498
+                    "endOffset": 44495
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -4940,9 +4940,9 @@
                 "to": {
                     "startLine": 505,
                     "startColumn": 4,
-                    "startOffset": 44503,
+                    "startOffset": 44500,
                     "endColumn": 130,
-                    "endOffset": 44629
+                    "endOffset": 44626
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -4959,9 +4959,9 @@
                 "to": {
                     "startLine": 506,
                     "startColumn": 4,
-                    "startOffset": 44634,
+                    "startOffset": 44631,
                     "endColumn": 104,
-                    "endOffset": 44734
+                    "endOffset": 44731
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -4978,10 +4978,10 @@
                 "to": {
                     "startLine": 507,
                     "startColumn": 4,
-                    "startOffset": 44739,
+                    "startOffset": 44736,
                     "endLine": 509,
                     "endColumn": 12,
-                    "endOffset": 44976
+                    "endOffset": 44973
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -4999,10 +4999,10 @@
                 "to": {
                     "startLine": 510,
                     "startColumn": 4,
-                    "startOffset": 44981,
+                    "startOffset": 44978,
                     "endLine": 512,
                     "endColumn": 12,
-                    "endOffset": 45143
+                    "endOffset": 45140
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -5020,10 +5020,10 @@
                 "to": {
                     "startLine": 513,
                     "startColumn": 4,
-                    "startOffset": 45148,
+                    "startOffset": 45145,
                     "endLine": 515,
                     "endColumn": 12,
-                    "endOffset": 45347
+                    "endOffset": 45344
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -5041,10 +5041,10 @@
                 "to": {
                     "startLine": 516,
                     "startColumn": 4,
-                    "startOffset": 45352,
+                    "startOffset": 45349,
                     "endLine": 518,
                     "endColumn": 12,
-                    "endOffset": 45555
+                    "endOffset": 45552
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -5062,10 +5062,10 @@
                 "to": {
                     "startLine": 519,
                     "startColumn": 4,
-                    "startOffset": 45560,
+                    "startOffset": 45557,
                     "endLine": 522,
                     "endColumn": 12,
-                    "endOffset": 45826
+                    "endOffset": 45823
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -5083,9 +5083,9 @@
                 "to": {
                     "startLine": 523,
                     "startColumn": 4,
-                    "startOffset": 45831,
+                    "startOffset": 45828,
                     "endColumn": 111,
-                    "endOffset": 45938
+                    "endOffset": 45935
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -5102,9 +5102,9 @@
                 "to": {
                     "startLine": 524,
                     "startColumn": 4,
-                    "startOffset": 45943,
+                    "startOffset": 45940,
                     "endColumn": 111,
-                    "endOffset": 46050
+                    "endOffset": 46047
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -5121,9 +5121,9 @@
                 "to": {
                     "startLine": 525,
                     "startColumn": 4,
-                    "startOffset": 46055,
+                    "startOffset": 46052,
                     "endColumn": 104,
-                    "endOffset": 46155
+                    "endOffset": 46152
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -5140,9 +5140,9 @@
                 "to": {
                     "startLine": 526,
                     "startColumn": 4,
-                    "startOffset": 46160,
+                    "startOffset": 46157,
                     "endColumn": 116,
-                    "endOffset": 46272
+                    "endOffset": 46269
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -5159,10 +5159,10 @@
                 "to": {
                     "startLine": 527,
                     "startColumn": 4,
-                    "startOffset": 46277,
+                    "startOffset": 46274,
                     "endLine": 529,
                     "endColumn": 12,
-                    "endOffset": 46486
+                    "endOffset": 46483
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -5180,10 +5180,10 @@
                 "to": {
                     "startLine": 530,
                     "startColumn": 4,
-                    "startOffset": 46491,
+                    "startOffset": 46488,
                     "endLine": 531,
                     "endColumn": 12,
-                    "endOffset": 46632
+                    "endOffset": 46629
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -5201,10 +5201,10 @@
                 "to": {
                     "startLine": 532,
                     "startColumn": 4,
-                    "startOffset": 46637,
+                    "startOffset": 46634,
                     "endLine": 533,
                     "endColumn": 12,
-                    "endOffset": 46772
+                    "endOffset": 46769
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -5222,10 +5222,10 @@
                 "to": {
                     "startLine": 534,
                     "startColumn": 4,
-                    "startOffset": 46777,
+                    "startOffset": 46774,
                     "endLine": 535,
                     "endColumn": 12,
-                    "endOffset": 46858
+                    "endOffset": 46855
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -5243,10 +5243,10 @@
                 "to": {
                     "startLine": 536,
                     "startColumn": 4,
-                    "startOffset": 46863,
+                    "startOffset": 46860,
                     "endLine": 540,
                     "endColumn": 12,
-                    "endOffset": 47206
+                    "endOffset": 47203
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -5264,9 +5264,9 @@
                 "to": {
                     "startLine": 541,
                     "startColumn": 4,
-                    "startOffset": 47211,
+                    "startOffset": 47208,
                     "endColumn": 87,
-                    "endOffset": 47294
+                    "endOffset": 47291
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -5283,10 +5283,10 @@
                 "to": {
                     "startLine": 542,
                     "startColumn": 4,
-                    "startOffset": 47299,
+                    "startOffset": 47296,
                     "endLine": 545,
                     "endColumn": 12,
-                    "endOffset": 47524
+                    "endOffset": 47521
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -5304,10 +5304,10 @@
                 "to": {
                     "startLine": 546,
                     "startColumn": 4,
-                    "startOffset": 47529,
+                    "startOffset": 47526,
                     "endLine": 551,
                     "endColumn": 12,
-                    "endOffset": 47942
+                    "endOffset": 47939
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -5325,10 +5325,10 @@
                 "to": {
                     "startLine": 552,
                     "startColumn": 4,
-                    "startOffset": 47947,
+                    "startOffset": 47944,
                     "endLine": 555,
                     "endColumn": 12,
-                    "endOffset": 48175
+                    "endOffset": 48172
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -5346,9 +5346,9 @@
                 "to": {
                     "startLine": 556,
                     "startColumn": 4,
-                    "startOffset": 48180,
+                    "startOffset": 48177,
                     "endColumn": 81,
-                    "endOffset": 48257
+                    "endOffset": 48254
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -5365,10 +5365,10 @@
                 "to": {
                     "startLine": 557,
                     "startColumn": 4,
-                    "startOffset": 48262,
+                    "startOffset": 48259,
                     "endLine": 558,
                     "endColumn": 12,
-                    "endOffset": 48355
+                    "endOffset": 48352
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -5386,10 +5386,10 @@
                 "to": {
                     "startLine": 559,
                     "startColumn": 4,
-                    "startOffset": 48360,
+                    "startOffset": 48357,
                     "endLine": 569,
                     "endColumn": 12,
-                    "endOffset": 48972
+                    "endOffset": 48969
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -5407,9 +5407,9 @@
                 "to": {
                     "startLine": 570,
                     "startColumn": 4,
-                    "startOffset": 48977,
+                    "startOffset": 48974,
                     "endColumn": 99,
-                    "endOffset": 49072
+                    "endOffset": 49069
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -5426,10 +5426,10 @@
                 "to": {
                     "startLine": 571,
                     "startColumn": 4,
-                    "startOffset": 49077,
+                    "startOffset": 49074,
                     "endLine": 574,
                     "endColumn": 12,
-                    "endOffset": 49308
+                    "endOffset": 49305
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -5447,10 +5447,10 @@
                 "to": {
                     "startLine": 575,
                     "startColumn": 4,
-                    "startOffset": 49313,
+                    "startOffset": 49310,
                     "endLine": 580,
                     "endColumn": 12,
-                    "endOffset": 49732
+                    "endOffset": 49729
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -5468,10 +5468,10 @@
                 "to": {
                     "startLine": 581,
                     "startColumn": 4,
-                    "startOffset": 49737,
+                    "startOffset": 49734,
                     "endLine": 584,
                     "endColumn": 12,
-                    "endOffset": 49971
+                    "endOffset": 49968
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -5489,9 +5489,9 @@
                 "to": {
                     "startLine": 585,
                     "startColumn": 4,
-                    "startOffset": 49976,
+                    "startOffset": 49973,
                     "endColumn": 93,
-                    "endOffset": 50065
+                    "endOffset": 50062
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -5508,9 +5508,9 @@
                 "to": {
                     "startLine": 586,
                     "startColumn": 4,
-                    "startOffset": 50070,
+                    "startOffset": 50067,
                     "endColumn": 88,
-                    "endOffset": 50154
+                    "endOffset": 50151
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -5527,10 +5527,10 @@
                 "to": {
                     "startLine": 587,
                     "startColumn": 4,
-                    "startOffset": 50159,
+                    "startOffset": 50156,
                     "endLine": 590,
                     "endColumn": 12,
-                    "endOffset": 50391
+                    "endOffset": 50388
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -5548,10 +5548,10 @@
                 "to": {
                     "startLine": 591,
                     "startColumn": 4,
-                    "startOffset": 50396,
+                    "startOffset": 50393,
                     "endLine": 617,
                     "endColumn": 12,
-                    "endOffset": 52443
+                    "endOffset": 52440
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -5569,10 +5569,10 @@
                 "to": {
                     "startLine": 618,
                     "startColumn": 4,
-                    "startOffset": 52448,
+                    "startOffset": 52445,
                     "endLine": 621,
                     "endColumn": 12,
-                    "endOffset": 52685
+                    "endOffset": 52682
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -5590,9 +5590,9 @@
                 "to": {
                     "startLine": 622,
                     "startColumn": 4,
-                    "startOffset": 52690,
+                    "startOffset": 52687,
                     "endColumn": 101,
-                    "endOffset": 52787
+                    "endOffset": 52784
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -5609,10 +5609,10 @@
                 "to": {
                     "startLine": 623,
                     "startColumn": 4,
-                    "startOffset": 52792,
+                    "startOffset": 52789,
                     "endLine": 626,
                     "endColumn": 12,
-                    "endOffset": 53024
+                    "endOffset": 53021
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -5630,10 +5630,10 @@
                 "to": {
                     "startLine": 627,
                     "startColumn": 4,
-                    "startOffset": 53029,
+                    "startOffset": 53026,
                     "endLine": 654,
                     "endColumn": 12,
-                    "endOffset": 55208
+                    "endOffset": 55205
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -5651,10 +5651,10 @@
                 "to": {
                     "startLine": 655,
                     "startColumn": 4,
-                    "startOffset": 55213,
+                    "startOffset": 55210,
                     "endLine": 813,
                     "endColumn": 12,
-                    "endOffset": 65377
+                    "endOffset": 65374
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -5672,10 +5672,10 @@
                 "to": {
                     "startLine": 814,
                     "startColumn": 4,
-                    "startOffset": 65382,
+                    "startOffset": 65379,
                     "endLine": 835,
                     "endColumn": 12,
-                    "endOffset": 66628
+                    "endOffset": 66625
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -5693,10 +5693,10 @@
                 "to": {
                     "startLine": 836,
                     "startColumn": 4,
-                    "startOffset": 66633,
+                    "startOffset": 66630,
                     "endLine": 994,
                     "endColumn": 12,
-                    "endOffset": 76896
+                    "endOffset": 76893
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -5714,10 +5714,10 @@
                 "to": {
                     "startLine": 995,
                     "startColumn": 4,
-                    "startOffset": 76901,
+                    "startOffset": 76898,
                     "endLine": 1016,
                     "endColumn": 12,
-                    "endOffset": 78159
+                    "endOffset": 78156
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -5735,10 +5735,10 @@
                 "to": {
                     "startLine": 1017,
                     "startColumn": 4,
-                    "startOffset": 78164,
+                    "startOffset": 78161,
                     "endLine": 1043,
                     "endColumn": 12,
-                    "endOffset": 79651
+                    "endOffset": 79648
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -5756,10 +5756,10 @@
                 "to": {
                     "startLine": 1044,
                     "startColumn": 4,
-                    "startOffset": 79656,
+                    "startOffset": 79653,
                     "endLine": 1050,
                     "endColumn": 12,
-                    "endOffset": 80187
+                    "endOffset": 80184
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -5777,10 +5777,10 @@
                 "to": {
                     "startLine": 1051,
                     "startColumn": 4,
-                    "startOffset": 80192,
+                    "startOffset": 80189,
                     "endLine": 1055,
                     "endColumn": 12,
-                    "endOffset": 80517
+                    "endOffset": 80514
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -5798,10 +5798,10 @@
                 "to": {
                     "startLine": 1056,
                     "startColumn": 4,
-                    "startOffset": 80522,
+                    "startOffset": 80519,
                     "endLine": 1077,
                     "endColumn": 12,
-                    "endOffset": 81782
+                    "endOffset": 81779
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -5819,10 +5819,10 @@
                 "to": {
                     "startLine": 1078,
                     "startColumn": 4,
-                    "startOffset": 81787,
+                    "startOffset": 81784,
                     "endLine": 1082,
                     "endColumn": 12,
-                    "endOffset": 82038
+                    "endOffset": 82035
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -5840,10 +5840,10 @@
                 "to": {
                     "startLine": 1083,
                     "startColumn": 4,
-                    "startOffset": 82043,
+                    "startOffset": 82040,
                     "endLine": 1087,
                     "endColumn": 12,
-                    "endOffset": 82274
+                    "endOffset": 82271
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -5861,10 +5861,10 @@
                 "to": {
                     "startLine": 1088,
                     "startColumn": 4,
-                    "startOffset": 82279,
+                    "startOffset": 82276,
                     "endLine": 1097,
                     "endColumn": 12,
-                    "endOffset": 82821
+                    "endOffset": 82818
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -5882,10 +5882,10 @@
                 "to": {
                     "startLine": 1098,
                     "startColumn": 4,
-                    "startOffset": 82826,
+                    "startOffset": 82823,
                     "endLine": 1106,
                     "endColumn": 12,
-                    "endOffset": 83315
+                    "endOffset": 83312
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -5903,10 +5903,10 @@
                 "to": {
                     "startLine": 1107,
                     "startColumn": 4,
-                    "startOffset": 83320,
+                    "startOffset": 83317,
                     "endLine": 1115,
                     "endColumn": 12,
-                    "endOffset": 83920
+                    "endOffset": 83917
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -5924,10 +5924,10 @@
                 "to": {
                     "startLine": 1116,
                     "startColumn": 4,
-                    "startOffset": 83925,
+                    "startOffset": 83922,
                     "endLine": 1119,
                     "endColumn": 12,
-                    "endOffset": 84118
+                    "endOffset": 84115
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -5945,10 +5945,10 @@
                 "to": {
                     "startLine": 1120,
                     "startColumn": 4,
-                    "startOffset": 84123,
+                    "startOffset": 84120,
                     "endLine": 1126,
                     "endColumn": 12,
-                    "endOffset": 84698
+                    "endOffset": 84695
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -5966,10 +5966,10 @@
                 "to": {
                     "startLine": 1127,
                     "startColumn": 4,
-                    "startOffset": 84703,
+                    "startOffset": 84700,
                     "endLine": 1134,
                     "endColumn": 12,
-                    "endOffset": 85262
+                    "endOffset": 85259
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -5987,10 +5987,10 @@
                 "to": {
                     "startLine": 1135,
                     "startColumn": 4,
-                    "startOffset": 85267,
+                    "startOffset": 85264,
                     "endLine": 1141,
                     "endColumn": 12,
-                    "endOffset": 85637
+                    "endOffset": 85634
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -6008,9 +6008,9 @@
                 "to": {
                     "startLine": 1142,
                     "startColumn": 4,
-                    "startOffset": 85642,
+                    "startOffset": 85639,
                     "endColumn": 117,
-                    "endOffset": 85755
+                    "endOffset": 85752
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -6027,10 +6027,10 @@
                 "to": {
                     "startLine": 1143,
                     "startColumn": 4,
-                    "startOffset": 85760,
+                    "startOffset": 85757,
                     "endLine": 1151,
                     "endColumn": 12,
-                    "endOffset": 86293
+                    "endOffset": 86290
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -6048,10 +6048,10 @@
                 "to": {
                     "startLine": 1152,
                     "startColumn": 4,
-                    "startOffset": 86298,
+                    "startOffset": 86295,
                     "endLine": 1154,
                     "endColumn": 12,
-                    "endOffset": 86450
+                    "endOffset": 86447
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -6069,10 +6069,10 @@
                 "to": {
                     "startLine": 1155,
                     "startColumn": 4,
-                    "startOffset": 86455,
+                    "startOffset": 86452,
                     "endLine": 1157,
                     "endColumn": 12,
-                    "endOffset": 86646
+                    "endOffset": 86643
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -6090,10 +6090,10 @@
                 "to": {
                     "startLine": 1158,
                     "startColumn": 4,
-                    "startOffset": 86651,
+                    "startOffset": 86648,
                     "endLine": 1161,
                     "endColumn": 12,
-                    "endOffset": 86919
+                    "endOffset": 86916
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -6111,10 +6111,10 @@
                 "to": {
                     "startLine": 1162,
                     "startColumn": 4,
-                    "startOffset": 86924,
+                    "startOffset": 86921,
                     "endLine": 1165,
                     "endColumn": 12,
-                    "endOffset": 87175
+                    "endOffset": 87172
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -6132,10 +6132,10 @@
                 "to": {
                     "startLine": 1166,
                     "startColumn": 4,
-                    "startOffset": 87180,
+                    "startOffset": 87177,
                     "endLine": 1169,
                     "endColumn": 12,
-                    "endOffset": 87345
+                    "endOffset": 87342
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -6153,10 +6153,10 @@
                 "to": {
                     "startLine": 1170,
                     "startColumn": 4,
-                    "startOffset": 87350,
+                    "startOffset": 87347,
                     "endLine": 1172,
                     "endColumn": 12,
-                    "endOffset": 87486
+                    "endOffset": 87483
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -6174,9 +6174,9 @@
                 "to": {
                     "startLine": 1173,
                     "startColumn": 4,
-                    "startOffset": 87491,
+                    "startOffset": 87488,
                     "endColumn": 63,
-                    "endOffset": 87550
+                    "endOffset": 87547
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -6193,10 +6193,10 @@
                 "to": {
                     "startLine": 1174,
                     "startColumn": 4,
-                    "startOffset": 87555,
+                    "startOffset": 87552,
                     "endLine": 1177,
                     "endColumn": 12,
-                    "endOffset": 87832
+                    "endOffset": 87829
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -6214,10 +6214,10 @@
                 "to": {
                     "startLine": 1178,
                     "startColumn": 4,
-                    "startOffset": 87837,
+                    "startOffset": 87834,
                     "endLine": 1181,
                     "endColumn": 12,
-                    "endOffset": 88118
+                    "endOffset": 88115
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -6235,10 +6235,10 @@
                 "to": {
                     "startLine": 1182,
                     "startColumn": 4,
-                    "startOffset": 88123,
+                    "startOffset": 88120,
                     "endLine": 1191,
                     "endColumn": 12,
-                    "endOffset": 88794
+                    "endOffset": 88791
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -6256,10 +6256,10 @@
                 "to": {
                     "startLine": 1192,
                     "startColumn": 4,
-                    "startOffset": 88799,
+                    "startOffset": 88796,
                     "endLine": 1196,
                     "endColumn": 12,
-                    "endOffset": 89058
+                    "endOffset": 89055
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -6277,10 +6277,10 @@
                 "to": {
                     "startLine": 1197,
                     "startColumn": 4,
-                    "startOffset": 89063,
+                    "startOffset": 89060,
                     "endLine": 1203,
                     "endColumn": 12,
-                    "endOffset": 89396
+                    "endOffset": 89393
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -6298,10 +6298,10 @@
                 "to": {
                     "startLine": 1204,
                     "startColumn": 4,
-                    "startOffset": 89401,
+                    "startOffset": 89398,
                     "endLine": 1209,
                     "endColumn": 12,
-                    "endOffset": 89749
+                    "endOffset": 89746
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -6319,9 +6319,9 @@
                 "to": {
                     "startLine": 1210,
                     "startColumn": 4,
-                    "startOffset": 89754,
+                    "startOffset": 89751,
                     "endColumn": 93,
-                    "endOffset": 89843
+                    "endOffset": 89840
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -6338,10 +6338,10 @@
                 "to": {
                     "startLine": 1211,
                     "startColumn": 4,
-                    "startOffset": 89848,
+                    "startOffset": 89845,
                     "endLine": 1213,
                     "endColumn": 12,
-                    "endOffset": 90029
+                    "endOffset": 90026
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -6359,10 +6359,10 @@
                 "to": {
                     "startLine": 1214,
                     "startColumn": 4,
-                    "startOffset": 90034,
+                    "startOffset": 90031,
                     "endLine": 1217,
                     "endColumn": 12,
-                    "endOffset": 90335
+                    "endOffset": 90332
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -6380,10 +6380,10 @@
                 "to": {
                     "startLine": 1218,
                     "startColumn": 4,
-                    "startOffset": 90340,
+                    "startOffset": 90337,
                     "endLine": 1222,
                     "endColumn": 12,
-                    "endOffset": 90597
+                    "endOffset": 90594
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -6401,10 +6401,10 @@
                 "to": {
                     "startLine": 1223,
                     "startColumn": 4,
-                    "startOffset": 90602,
+                    "startOffset": 90599,
                     "endLine": 1224,
                     "endColumn": 12,
-                    "endOffset": 90722
+                    "endOffset": 90719
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -6422,10 +6422,10 @@
                 "to": {
                     "startLine": 1225,
                     "startColumn": 4,
-                    "startOffset": 90727,
+                    "startOffset": 90724,
                     "endLine": 1226,
                     "endColumn": 12,
-                    "endOffset": 90849
+                    "endOffset": 90846
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -6443,10 +6443,10 @@
                 "to": {
                     "startLine": 1227,
                     "startColumn": 4,
-                    "startOffset": 90854,
+                    "startOffset": 90851,
                     "endLine": 1229,
                     "endColumn": 12,
-                    "endOffset": 91088
+                    "endOffset": 91085
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -6464,10 +6464,10 @@
                 "to": {
                     "startLine": 1230,
                     "startColumn": 4,
-                    "startOffset": 91093,
+                    "startOffset": 91090,
                     "endLine": 1232,
                     "endColumn": 12,
-                    "endOffset": 91299
+                    "endOffset": 91296
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -6485,10 +6485,10 @@
                 "to": {
                     "startLine": 1233,
                     "startColumn": 4,
-                    "startOffset": 91304,
+                    "startOffset": 91301,
                     "endLine": 1234,
                     "endColumn": 12,
-                    "endOffset": 91418
+                    "endOffset": 91415
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -6506,10 +6506,10 @@
                 "to": {
                     "startLine": 1235,
                     "startColumn": 4,
-                    "startOffset": 91423,
+                    "startOffset": 91420,
                     "endLine": 1238,
                     "endColumn": 12,
-                    "endOffset": 91611
+                    "endOffset": 91608
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -6527,10 +6527,10 @@
                 "to": {
                     "startLine": 1239,
                     "startColumn": 4,
-                    "startOffset": 91616,
+                    "startOffset": 91613,
                     "endLine": 1241,
                     "endColumn": 12,
-                    "endOffset": 91788
+                    "endOffset": 91785
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -6548,10 +6548,10 @@
                 "to": {
                     "startLine": 1242,
                     "startColumn": 4,
-                    "startOffset": 91793,
+                    "startOffset": 91790,
                     "endLine": 1248,
                     "endColumn": 12,
-                    "endOffset": 92243
+                    "endOffset": 92240
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -6569,10 +6569,10 @@
                 "to": {
                     "startLine": 1249,
                     "startColumn": 4,
-                    "startOffset": 92248,
+                    "startOffset": 92245,
                     "endLine": 1251,
                     "endColumn": 12,
-                    "endOffset": 92424
+                    "endOffset": 92421
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -6590,10 +6590,10 @@
                 "to": {
                     "startLine": 1252,
                     "startColumn": 4,
-                    "startOffset": 92429,
+                    "startOffset": 92426,
                     "endLine": 1254,
                     "endColumn": 12,
-                    "endOffset": 92546
+                    "endOffset": 92543
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -6611,10 +6611,10 @@
                 "to": {
                     "startLine": 1255,
                     "startColumn": 4,
-                    "startOffset": 92551,
+                    "startOffset": 92548,
                     "endLine": 1258,
                     "endColumn": 12,
-                    "endOffset": 92805
+                    "endOffset": 92802
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -6632,10 +6632,10 @@
                 "to": {
                     "startLine": 1259,
                     "startColumn": 4,
-                    "startOffset": 92810,
+                    "startOffset": 92807,
                     "endLine": 1260,
                     "endColumn": 12,
-                    "endOffset": 92918
+                    "endOffset": 92915
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -6653,10 +6653,10 @@
                 "to": {
                     "startLine": 1261,
                     "startColumn": 4,
-                    "startOffset": 92923,
+                    "startOffset": 92920,
                     "endLine": 1264,
                     "endColumn": 12,
-                    "endOffset": 93105
+                    "endOffset": 93102
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -6674,10 +6674,10 @@
                 "to": {
                     "startLine": 1265,
                     "startColumn": 4,
-                    "startOffset": 93110,
+                    "startOffset": 93107,
                     "endLine": 1266,
                     "endColumn": 12,
-                    "endOffset": 93207
+                    "endOffset": 93204
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -6695,10 +6695,10 @@
                 "to": {
                     "startLine": 1267,
                     "startColumn": 4,
-                    "startOffset": 93212,
+                    "startOffset": 93209,
                     "endLine": 1272,
                     "endColumn": 12,
-                    "endOffset": 93651
+                    "endOffset": 93648
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -6716,10 +6716,10 @@
                 "to": {
                     "startLine": 1273,
                     "startColumn": 4,
-                    "startOffset": 93656,
+                    "startOffset": 93653,
                     "endLine": 1274,
                     "endColumn": 12,
-                    "endOffset": 93775
+                    "endOffset": 93772
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -6737,10 +6737,10 @@
                 "to": {
                     "startLine": 1275,
                     "startColumn": 4,
-                    "startOffset": 93780,
+                    "startOffset": 93777,
                     "endLine": 1278,
                     "endColumn": 12,
-                    "endOffset": 94050
+                    "endOffset": 94047
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -6758,10 +6758,10 @@
                 "to": {
                     "startLine": 1279,
                     "startColumn": 4,
-                    "startOffset": 94055,
+                    "startOffset": 94052,
                     "endLine": 1286,
                     "endColumn": 12,
-                    "endOffset": 94558
+                    "endOffset": 94555
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -6779,10 +6779,10 @@
                 "to": {
                     "startLine": 1287,
                     "startColumn": 4,
-                    "startOffset": 94563,
+                    "startOffset": 94560,
                     "endLine": 1294,
                     "endColumn": 12,
-                    "endOffset": 95054
+                    "endOffset": 95051
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -6800,10 +6800,10 @@
                 "to": {
                     "startLine": 1295,
                     "startColumn": 4,
-                    "startOffset": 95059,
+                    "startOffset": 95056,
                     "endLine": 1306,
                     "endColumn": 12,
-                    "endOffset": 95931
+                    "endOffset": 95928
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -6821,10 +6821,10 @@
                 "to": {
                     "startLine": 1307,
                     "startColumn": 4,
-                    "startOffset": 95936,
+                    "startOffset": 95933,
                     "endLine": 1312,
                     "endColumn": 12,
-                    "endOffset": 96225
+                    "endOffset": 96222
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -6842,10 +6842,10 @@
                 "to": {
                     "startLine": 1313,
                     "startColumn": 4,
-                    "startOffset": 96230,
+                    "startOffset": 96227,
                     "endLine": 1321,
                     "endColumn": 12,
-                    "endOffset": 96795
+                    "endOffset": 96792
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -6863,10 +6863,10 @@
                 "to": {
                     "startLine": 1322,
                     "startColumn": 4,
-                    "startOffset": 96800,
+                    "startOffset": 96797,
                     "endLine": 1324,
                     "endColumn": 12,
-                    "endOffset": 96944
+                    "endOffset": 96941
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -6884,10 +6884,10 @@
                 "to": {
                     "startLine": 1325,
                     "startColumn": 4,
-                    "startOffset": 96949,
+                    "startOffset": 96946,
                     "endLine": 1335,
                     "endColumn": 12,
-                    "endOffset": 97676
+                    "endOffset": 97673
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -6905,10 +6905,10 @@
                 "to": {
                     "startLine": 1336,
                     "startColumn": 4,
-                    "startOffset": 97681,
+                    "startOffset": 97678,
                     "endLine": 1338,
                     "endColumn": 12,
-                    "endOffset": 97848
+                    "endOffset": 97845
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -6926,10 +6926,10 @@
                 "to": {
                     "startLine": 1339,
                     "startColumn": 4,
-                    "startOffset": 97853,
+                    "startOffset": 97850,
                     "endLine": 1343,
                     "endColumn": 12,
-                    "endOffset": 98184
+                    "endOffset": 98181
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -6947,10 +6947,10 @@
                 "to": {
                     "startLine": 1344,
                     "startColumn": 4,
-                    "startOffset": 98189,
+                    "startOffset": 98186,
                     "endLine": 1357,
                     "endColumn": 12,
-                    "endOffset": 99242
+                    "endOffset": 99239
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -6968,10 +6968,10 @@
                 "to": {
                     "startLine": 1358,
                     "startColumn": 4,
-                    "startOffset": 99247,
+                    "startOffset": 99244,
                     "endLine": 1362,
                     "endColumn": 12,
-                    "endOffset": 99520
+                    "endOffset": 99517
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -6989,10 +6989,10 @@
                 "to": {
                     "startLine": 1363,
                     "startColumn": 4,
-                    "startOffset": 99525,
+                    "startOffset": 99522,
                     "endLine": 1404,
                     "endColumn": 12,
-                    "endOffset": 102706
+                    "endOffset": 102703
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -7010,10 +7010,10 @@
                 "to": {
                     "startLine": 1405,
                     "startColumn": 4,
-                    "startOffset": 102711,
+                    "startOffset": 102708,
                     "endLine": 1447,
                     "endColumn": 12,
-                    "endOffset": 106035
+                    "endOffset": 106032
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -7031,9 +7031,9 @@
                 "to": {
                     "startLine": 1448,
                     "startColumn": 4,
-                    "startOffset": 106040,
+                    "startOffset": 106037,
                     "endColumn": 61,
-                    "endOffset": 106097
+                    "endOffset": 106094
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -7050,10 +7050,10 @@
                 "to": {
                     "startLine": 1449,
                     "startColumn": 4,
-                    "startOffset": 106102,
+                    "startOffset": 106099,
                     "endLine": 1458,
                     "endColumn": 12,
-                    "endOffset": 106727
+                    "endOffset": 106724
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -7071,10 +7071,10 @@
                 "to": {
                     "startLine": 1459,
                     "startColumn": 4,
-                    "startOffset": 106732,
+                    "startOffset": 106729,
                     "endLine": 1467,
                     "endColumn": 12,
-                    "endOffset": 107341
+                    "endOffset": 107338
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -7092,9 +7092,9 @@
                 "to": {
                     "startLine": 1468,
                     "startColumn": 4,
-                    "startOffset": 107346,
+                    "startOffset": 107343,
                     "endColumn": 85,
-                    "endOffset": 107427
+                    "endOffset": 107424
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -7111,10 +7111,10 @@
                 "to": {
                     "startLine": 1469,
                     "startColumn": 4,
-                    "startOffset": 107432,
+                    "startOffset": 107429,
                     "endLine": 1470,
                     "endColumn": 12,
-                    "endOffset": 107540
+                    "endOffset": 107537
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -7132,10 +7132,10 @@
                 "to": {
                     "startLine": 1471,
                     "startColumn": 4,
-                    "startOffset": 107545,
+                    "startOffset": 107542,
                     "endLine": 1474,
                     "endColumn": 12,
-                    "endOffset": 107769
+                    "endOffset": 107766
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -7153,10 +7153,10 @@
                 "to": {
                     "startLine": 1475,
                     "startColumn": 4,
-                    "startOffset": 107774,
+                    "startOffset": 107771,
                     "endLine": 1477,
                     "endColumn": 12,
-                    "endOffset": 107929
+                    "endOffset": 107926
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -7174,10 +7174,10 @@
                 "to": {
                     "startLine": 1478,
                     "startColumn": 4,
-                    "startOffset": 107934,
+                    "startOffset": 107931,
                     "endLine": 1480,
                     "endColumn": 12,
-                    "endOffset": 108081
+                    "endOffset": 108078
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -7195,10 +7195,10 @@
                 "to": {
                     "startLine": 1481,
                     "startColumn": 4,
-                    "startOffset": 108086,
+                    "startOffset": 108083,
                     "endLine": 1483,
                     "endColumn": 12,
-                    "endOffset": 108252
+                    "endOffset": 108249
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -7216,10 +7216,10 @@
                 "to": {
                     "startLine": 1484,
                     "startColumn": 4,
-                    "startOffset": 108257,
+                    "startOffset": 108254,
                     "endLine": 1486,
                     "endColumn": 12,
-                    "endOffset": 108419
+                    "endOffset": 108416
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -7237,10 +7237,10 @@
                 "to": {
                     "startLine": 1487,
                     "startColumn": 4,
-                    "startOffset": 108424,
+                    "startOffset": 108421,
                     "endLine": 1490,
                     "endColumn": 12,
-                    "endOffset": 108662
+                    "endOffset": 108659
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -7258,10 +7258,10 @@
                 "to": {
                     "startLine": 1491,
                     "startColumn": 4,
-                    "startOffset": 108667,
+                    "startOffset": 108664,
                     "endLine": 1493,
                     "endColumn": 12,
-                    "endOffset": 108832
+                    "endOffset": 108829
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -7279,10 +7279,10 @@
                 "to": {
                     "startLine": 1494,
                     "startColumn": 4,
-                    "startOffset": 108837,
+                    "startOffset": 108834,
                     "endLine": 1496,
                     "endColumn": 12,
-                    "endOffset": 109005
+                    "endOffset": 109002
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -7300,10 +7300,10 @@
                 "to": {
                     "startLine": 1497,
                     "startColumn": 4,
-                    "startOffset": 109010,
+                    "startOffset": 109007,
                     "endLine": 1499,
                     "endColumn": 12,
-                    "endOffset": 109176
+                    "endOffset": 109173
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -7321,10 +7321,10 @@
                 "to": {
                     "startLine": 1500,
                     "startColumn": 4,
-                    "startOffset": 109181,
+                    "startOffset": 109178,
                     "endLine": 1503,
                     "endColumn": 12,
-                    "endOffset": 109450
+                    "endOffset": 109447
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -7342,10 +7342,10 @@
                 "to": {
                     "startLine": 1504,
                     "startColumn": 4,
-                    "startOffset": 109455,
+                    "startOffset": 109452,
                     "endLine": 1506,
                     "endColumn": 12,
-                    "endOffset": 109649
+                    "endOffset": 109646
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -7363,10 +7363,10 @@
                 "to": {
                     "startLine": 1507,
                     "startColumn": 4,
-                    "startOffset": 109654,
+                    "startOffset": 109651,
                     "endLine": 1510,
                     "endColumn": 12,
-                    "endOffset": 109854
+                    "endOffset": 109851
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -7384,10 +7384,10 @@
                 "to": {
                     "startLine": 1511,
                     "startColumn": 4,
-                    "startOffset": 109859,
+                    "startOffset": 109856,
                     "endLine": 1514,
                     "endColumn": 12,
-                    "endOffset": 110184
+                    "endOffset": 110181
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -7405,9 +7405,9 @@
                 "to": {
                     "startLine": 1515,
                     "startColumn": 4,
-                    "startOffset": 110189,
+                    "startOffset": 110186,
                     "endColumn": 83,
-                    "endOffset": 110268
+                    "endOffset": 110265
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -7424,9 +7424,9 @@
                 "to": {
                     "startLine": 1516,
                     "startColumn": 4,
-                    "startOffset": 110273,
+                    "startOffset": 110270,
                     "endColumn": 95,
-                    "endOffset": 110364
+                    "endOffset": 110361
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -7443,9 +7443,9 @@
                 "to": {
                     "startLine": 1517,
                     "startColumn": 4,
-                    "startOffset": 110369,
+                    "startOffset": 110366,
                     "endColumn": 95,
-                    "endOffset": 110460
+                    "endOffset": 110457
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -7462,9 +7462,9 @@
                 "to": {
                     "startLine": 1518,
                     "startColumn": 4,
-                    "startOffset": 110465,
+                    "startOffset": 110462,
                     "endColumn": 97,
-                    "endOffset": 110558
+                    "endOffset": 110555
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -7481,9 +7481,9 @@
                 "to": {
                     "startLine": 1519,
                     "startColumn": 4,
-                    "startOffset": 110563,
+                    "startOffset": 110560,
                     "endColumn": 99,
-                    "endOffset": 110658
+                    "endOffset": 110655
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -7500,9 +7500,9 @@
                 "to": {
                     "startLine": 1520,
                     "startColumn": 4,
-                    "startOffset": 110663,
+                    "startOffset": 110660,
                     "endColumn": 101,
-                    "endOffset": 110760
+                    "endOffset": 110757
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -7519,9 +7519,9 @@
                 "to": {
                     "startLine": 1521,
                     "startColumn": 4,
-                    "startOffset": 110765,
+                    "startOffset": 110762,
                     "endColumn": 101,
-                    "endOffset": 110862
+                    "endOffset": 110859
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -7538,9 +7538,9 @@
                 "to": {
                     "startLine": 1522,
                     "startColumn": 4,
-                    "startOffset": 110867,
+                    "startOffset": 110864,
                     "endColumn": 101,
-                    "endOffset": 110964
+                    "endOffset": 110961
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -7557,9 +7557,9 @@
                 "to": {
                     "startLine": 1523,
                     "startColumn": 4,
-                    "startOffset": 110969,
+                    "startOffset": 110966,
                     "endColumn": 101,
-                    "endOffset": 111066
+                    "endOffset": 111063
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -7576,9 +7576,9 @@
                 "to": {
                     "startLine": 1524,
                     "startColumn": 4,
-                    "startOffset": 111071,
+                    "startOffset": 111068,
                     "endColumn": 101,
-                    "endOffset": 111168
+                    "endOffset": 111165
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -7595,9 +7595,9 @@
                 "to": {
                     "startLine": 1525,
                     "startColumn": 4,
-                    "startOffset": 111173,
+                    "startOffset": 111170,
                     "endColumn": 99,
-                    "endOffset": 111268
+                    "endOffset": 111265
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -7614,9 +7614,9 @@
                 "to": {
                     "startLine": 1526,
                     "startColumn": 4,
-                    "startOffset": 111273,
+                    "startOffset": 111270,
                     "endColumn": 95,
-                    "endOffset": 111364
+                    "endOffset": 111361
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -7633,9 +7633,9 @@
                 "to": {
                     "startLine": 1527,
                     "startColumn": 4,
-                    "startOffset": 111369,
+                    "startOffset": 111366,
                     "endColumn": 111,
-                    "endOffset": 111476
+                    "endOffset": 111473
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -7652,9 +7652,9 @@
                 "to": {
                     "startLine": 1528,
                     "startColumn": 4,
-                    "startOffset": 111481,
+                    "startOffset": 111478,
                     "endColumn": 128,
-                    "endOffset": 111605
+                    "endOffset": 111602
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -7671,9 +7671,9 @@
                 "to": {
                     "startLine": 1529,
                     "startColumn": 4,
-                    "startOffset": 111610,
+                    "startOffset": 111607,
                     "endColumn": 122,
-                    "endOffset": 111728
+                    "endOffset": 111725
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -7690,9 +7690,9 @@
                 "to": {
                     "startLine": 1530,
                     "startColumn": 4,
-                    "startOffset": 111733,
+                    "startOffset": 111730,
                     "endColumn": 130,
-                    "endOffset": 111859
+                    "endOffset": 111856
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -7709,9 +7709,9 @@
                 "to": {
                     "startLine": 1531,
                     "startColumn": 4,
-                    "startOffset": 111864,
+                    "startOffset": 111861,
                     "endColumn": 130,
-                    "endOffset": 111990
+                    "endOffset": 111987
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -7728,9 +7728,9 @@
                 "to": {
                     "startLine": 1532,
                     "startColumn": 4,
-                    "startOffset": 111995,
+                    "startOffset": 111992,
                     "endColumn": 97,
-                    "endOffset": 112088
+                    "endOffset": 112085
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -7747,9 +7747,9 @@
                 "to": {
                     "startLine": 1533,
                     "startColumn": 4,
-                    "startOffset": 112093,
+                    "startOffset": 112090,
                     "endColumn": 113,
-                    "endOffset": 112202
+                    "endOffset": 112199
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -7766,9 +7766,9 @@
                 "to": {
                     "startLine": 1534,
                     "startColumn": 4,
-                    "startOffset": 112207,
+                    "startOffset": 112204,
                     "endColumn": 93,
-                    "endOffset": 112296
+                    "endOffset": 112293
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -7785,10 +7785,10 @@
                 "to": {
                     "startLine": 1535,
                     "startColumn": 4,
-                    "startOffset": 112301,
+                    "startOffset": 112298,
                     "endLine": 1538,
                     "endColumn": 12,
-                    "endOffset": 112495
+                    "endOffset": 112492
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -7806,10 +7806,10 @@
                 "to": {
                     "startLine": 1539,
                     "startColumn": 4,
-                    "startOffset": 112500,
+                    "startOffset": 112497,
                     "endLine": 1542,
                     "endColumn": 12,
-                    "endOffset": 112699
+                    "endOffset": 112696
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -7827,9 +7827,9 @@
                 "to": {
                     "startLine": 1543,
                     "startColumn": 4,
-                    "startOffset": 112704,
+                    "startOffset": 112701,
                     "endColumn": 68,
-                    "endOffset": 112768
+                    "endOffset": 112765
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -7846,9 +7846,9 @@
                 "to": {
                     "startLine": 1544,
                     "startColumn": 4,
-                    "startOffset": 112773,
+                    "startOffset": 112770,
                     "endColumn": 115,
-                    "endOffset": 112884
+                    "endOffset": 112881
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -7865,9 +7865,9 @@
                 "to": {
                     "startLine": 1545,
                     "startColumn": 4,
-                    "startOffset": 112889,
+                    "startOffset": 112886,
                     "endColumn": 127,
-                    "endOffset": 113012
+                    "endOffset": 113009
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -7884,9 +7884,9 @@
                 "to": {
                     "startLine": 1546,
                     "startColumn": 4,
-                    "startOffset": 113017,
+                    "startOffset": 113014,
                     "endColumn": 63,
-                    "endOffset": 113076
+                    "endOffset": 113073
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -7903,10 +7903,10 @@
                 "to": {
                     "startLine": 1547,
                     "startColumn": 4,
-                    "startOffset": 113081,
+                    "startOffset": 113078,
                     "endLine": 1550,
                     "endColumn": 12,
-                    "endOffset": 113280
+                    "endOffset": 113277
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -7924,9 +7924,9 @@
                 "to": {
                     "startLine": 1551,
                     "startColumn": 4,
-                    "startOffset": 113285,
+                    "startOffset": 113282,
                     "endColumn": 68,
-                    "endOffset": 113349
+                    "endOffset": 113346
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -7943,10 +7943,10 @@
                 "to": {
                     "startLine": 1552,
                     "startColumn": 4,
-                    "startOffset": 113354,
+                    "startOffset": 113351,
                     "endLine": 1555,
                     "endColumn": 12,
-                    "endOffset": 113552
+                    "endOffset": 113549
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -7964,9 +7964,9 @@
                 "to": {
                     "startLine": 1556,
                     "startColumn": 4,
-                    "startOffset": 113557,
+                    "startOffset": 113554,
                     "endColumn": 69,
-                    "endOffset": 113622
+                    "endOffset": 113619
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -7983,10 +7983,10 @@
                 "to": {
                     "startLine": 1557,
                     "startColumn": 4,
-                    "startOffset": 113627,
+                    "startOffset": 113624,
                     "endLine": 1558,
                     "endColumn": 12,
-                    "endOffset": 113762
+                    "endOffset": 113759
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -8004,10 +8004,10 @@
                 "to": {
                     "startLine": 1559,
                     "startColumn": 4,
-                    "startOffset": 113767,
+                    "startOffset": 113764,
                     "endLine": 1560,
                     "endColumn": 12,
-                    "endOffset": 113896
+                    "endOffset": 113893
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -8025,9 +8025,9 @@
                 "to": {
                     "startLine": 1561,
                     "startColumn": 4,
-                    "startOffset": 113901,
+                    "startOffset": 113898,
                     "endColumn": 95,
-                    "endOffset": 113992
+                    "endOffset": 113989
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -8044,9 +8044,9 @@
                 "to": {
                     "startLine": 1562,
                     "startColumn": 4,
-                    "startOffset": 113997,
+                    "startOffset": 113994,
                     "endColumn": 111,
-                    "endOffset": 114104
+                    "endOffset": 114101
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -8063,9 +8063,9 @@
                 "to": {
                     "startLine": 1563,
                     "startColumn": 4,
-                    "startOffset": 114109,
+                    "startOffset": 114106,
                     "endColumn": 99,
-                    "endOffset": 114204
+                    "endOffset": 114201
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -8082,9 +8082,9 @@
                 "to": {
                     "startLine": 1564,
                     "startColumn": 4,
-                    "startOffset": 114209,
+                    "startOffset": 114206,
                     "endColumn": 115,
-                    "endOffset": 114320
+                    "endOffset": 114317
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -8101,9 +8101,9 @@
                 "to": {
                     "startLine": 1565,
                     "startColumn": 4,
-                    "startOffset": 114325,
+                    "startOffset": 114322,
                     "endColumn": 95,
-                    "endOffset": 114416
+                    "endOffset": 114413
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -8120,9 +8120,9 @@
                 "to": {
                     "startLine": 1566,
                     "startColumn": 4,
-                    "startOffset": 114421,
+                    "startOffset": 114418,
                     "endColumn": 111,
-                    "endOffset": 114528
+                    "endOffset": 114525
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -8139,10 +8139,10 @@
                 "to": {
                     "startLine": 1567,
                     "startColumn": 4,
-                    "startOffset": 114533,
+                    "startOffset": 114530,
                     "endLine": 1568,
                     "endColumn": 12,
-                    "endOffset": 114668
+                    "endOffset": 114665
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -8160,9 +8160,9 @@
                 "to": {
                     "startLine": 1569,
                     "startColumn": 4,
-                    "startOffset": 114673,
+                    "startOffset": 114670,
                     "endColumn": 135,
-                    "endOffset": 114804
+                    "endOffset": 114801
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -8179,10 +8179,10 @@
                 "to": {
                     "startLine": 1570,
                     "startColumn": 4,
-                    "startOffset": 114809,
+                    "startOffset": 114806,
                     "endLine": 1571,
                     "endColumn": 12,
-                    "endOffset": 114968
+                    "endOffset": 114965
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -8200,9 +8200,9 @@
                 "to": {
                     "startLine": 1572,
                     "startColumn": 4,
-                    "startOffset": 114973,
+                    "startOffset": 114970,
                     "endColumn": 129,
-                    "endOffset": 115098
+                    "endOffset": 115095
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -8219,10 +8219,10 @@
                 "to": {
                     "startLine": 1573,
                     "startColumn": 4,
-                    "startOffset": 115103,
+                    "startOffset": 115100,
                     "endLine": 1574,
                     "endColumn": 12,
-                    "endOffset": 115256
+                    "endOffset": 115253
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -8240,10 +8240,10 @@
                 "to": {
                     "startLine": 1575,
                     "startColumn": 4,
-                    "startOffset": 115261,
+                    "startOffset": 115258,
                     "endLine": 1576,
                     "endColumn": 12,
-                    "endOffset": 115406
+                    "endOffset": 115403
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -8261,9 +8261,9 @@
                 "to": {
                     "startLine": 1577,
                     "startColumn": 4,
-                    "startOffset": 115411,
+                    "startOffset": 115408,
                     "endColumn": 140,
-                    "endOffset": 115547
+                    "endOffset": 115544
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -8280,10 +8280,10 @@
                 "to": {
                     "startLine": 1578,
                     "startColumn": 4,
-                    "startOffset": 115552,
+                    "startOffset": 115549,
                     "endLine": 1579,
                     "endColumn": 12,
-                    "endOffset": 115691
+                    "endOffset": 115688
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -8301,9 +8301,9 @@
                 "to": {
                     "startLine": 1580,
                     "startColumn": 4,
-                    "startOffset": 115696,
+                    "startOffset": 115693,
                     "endColumn": 134,
-                    "endOffset": 115826
+                    "endOffset": 115823
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -8320,9 +8320,9 @@
                 "to": {
                     "startLine": 1581,
                     "startColumn": 4,
-                    "startOffset": 115831,
+                    "startOffset": 115828,
                     "endColumn": 111,
-                    "endOffset": 115938
+                    "endOffset": 115935
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -8339,9 +8339,9 @@
                 "to": {
                     "startLine": 1582,
                     "startColumn": 4,
-                    "startOffset": 115943,
+                    "startOffset": 115940,
                     "endColumn": 149,
-                    "endOffset": 116088
+                    "endOffset": 116085
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -8358,9 +8358,9 @@
                 "to": {
                     "startLine": 1583,
                     "startColumn": 4,
-                    "startOffset": 116093,
+                    "startOffset": 116090,
                     "endColumn": 127,
-                    "endOffset": 116216
+                    "endOffset": 116213
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -8377,9 +8377,9 @@
                 "to": {
                     "startLine": 1584,
                     "startColumn": 4,
-                    "startOffset": 116221,
+                    "startOffset": 116218,
                     "endColumn": 127,
-                    "endOffset": 116344
+                    "endOffset": 116341
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -8396,10 +8396,10 @@
                 "to": {
                     "startLine": 1585,
                     "startColumn": 4,
-                    "startOffset": 116349,
+                    "startOffset": 116346,
                     "endLine": 1586,
                     "endColumn": 12,
-                    "endOffset": 116480
+                    "endOffset": 116477
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -8417,9 +8417,9 @@
                 "to": {
                     "startLine": 1587,
                     "startColumn": 4,
-                    "startOffset": 116485,
+                    "startOffset": 116482,
                     "endColumn": 131,
-                    "endOffset": 116612
+                    "endOffset": 116609
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -8436,9 +8436,9 @@
                 "to": {
                     "startLine": 1588,
                     "startColumn": 4,
-                    "startOffset": 116617,
+                    "startOffset": 116614,
                     "endColumn": 129,
-                    "endOffset": 116742
+                    "endOffset": 116739
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -8455,9 +8455,9 @@
                 "to": {
                     "startLine": 1589,
                     "startColumn": 4,
-                    "startOffset": 116747,
+                    "startOffset": 116744,
                     "endColumn": 129,
-                    "endOffset": 116872
+                    "endOffset": 116869
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -8474,9 +8474,9 @@
                 "to": {
                     "startLine": 1590,
                     "startColumn": 4,
-                    "startOffset": 116877,
+                    "startOffset": 116874,
                     "endColumn": 111,
-                    "endOffset": 116984
+                    "endOffset": 116981
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -8493,9 +8493,9 @@
                 "to": {
                     "startLine": 1591,
                     "startColumn": 4,
-                    "startOffset": 116989,
+                    "startOffset": 116986,
                     "endColumn": 139,
-                    "endOffset": 117124
+                    "endOffset": 117121
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -8512,9 +8512,9 @@
                 "to": {
                     "startLine": 1592,
                     "startColumn": 4,
-                    "startOffset": 117129,
+                    "startOffset": 117126,
                     "endColumn": 67,
-                    "endOffset": 117192
+                    "endOffset": 117189
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -8531,9 +8531,9 @@
                 "to": {
                     "startLine": 1593,
                     "startColumn": 4,
-                    "startOffset": 117197,
+                    "startOffset": 117194,
                     "endColumn": 72,
-                    "endOffset": 117265
+                    "endOffset": 117262
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -8550,9 +8550,9 @@
                 "to": {
                     "startLine": 1594,
                     "startColumn": 4,
-                    "startOffset": 117270,
+                    "startOffset": 117267,
                     "endColumn": 73,
-                    "endOffset": 117339
+                    "endOffset": 117336
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -8569,9 +8569,9 @@
                 "to": {
                     "startLine": 1595,
                     "startColumn": 4,
-                    "startOffset": 117344,
+                    "startOffset": 117341,
                     "endColumn": 72,
-                    "endOffset": 117412
+                    "endOffset": 117409
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -8588,9 +8588,9 @@
                 "to": {
                     "startLine": 1596,
                     "startColumn": 4,
-                    "startOffset": 117417,
+                    "startOffset": 117414,
                     "endColumn": 73,
-                    "endOffset": 117486
+                    "endOffset": 117483
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -8607,10 +8607,10 @@
                 "to": {
                     "startLine": 1597,
                     "startColumn": 4,
-                    "startOffset": 117491,
+                    "startOffset": 117488,
                     "endLine": 1598,
                     "endColumn": 12,
-                    "endOffset": 117632
+                    "endOffset": 117629
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -8628,10 +8628,10 @@
                 "to": {
                     "startLine": 1599,
                     "startColumn": 4,
-                    "startOffset": 117637,
+                    "startOffset": 117634,
                     "endLine": 1600,
                     "endColumn": 12,
-                    "endOffset": 117776
+                    "endOffset": 117773
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -8649,10 +8649,10 @@
                 "to": {
                     "startLine": 1601,
                     "startColumn": 4,
-                    "startOffset": 117781,
+                    "startOffset": 117778,
                     "endLine": 1602,
                     "endColumn": 12,
-                    "endOffset": 117914
+                    "endOffset": 117911
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -8670,9 +8670,9 @@
                 "to": {
                     "startLine": 1603,
                     "startColumn": 4,
-                    "startOffset": 117919,
+                    "startOffset": 117916,
                     "endColumn": 65,
-                    "endOffset": 117980
+                    "endOffset": 117977
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -8689,9 +8689,9 @@
                 "to": {
                     "startLine": 1604,
                     "startColumn": 4,
-                    "startOffset": 117985,
+                    "startOffset": 117982,
                     "endColumn": 89,
-                    "endOffset": 118070
+                    "endOffset": 118067
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -8708,9 +8708,9 @@
                 "to": {
                     "startLine": 1605,
                     "startColumn": 4,
-                    "startOffset": 118075,
+                    "startOffset": 118072,
                     "endColumn": 75,
-                    "endOffset": 118146
+                    "endOffset": 118143
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -8727,9 +8727,9 @@
                 "to": {
                     "startLine": 1606,
                     "startColumn": 4,
-                    "startOffset": 118151,
+                    "startOffset": 118148,
                     "endColumn": 103,
-                    "endOffset": 118250
+                    "endOffset": 118247
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -8746,9 +8746,9 @@
                 "to": {
                     "startLine": 1607,
                     "startColumn": 4,
-                    "startOffset": 118255,
+                    "startOffset": 118252,
                     "endColumn": 89,
-                    "endOffset": 118340
+                    "endOffset": 118337
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -8765,9 +8765,9 @@
                 "to": {
                     "startLine": 1608,
                     "startColumn": 4,
-                    "startOffset": 118345,
+                    "startOffset": 118342,
                     "endColumn": 101,
-                    "endOffset": 118442
+                    "endOffset": 118439
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -8784,9 +8784,9 @@
                 "to": {
                     "startLine": 1609,
                     "startColumn": 4,
-                    "startOffset": 118447,
+                    "startOffset": 118444,
                     "endColumn": 107,
-                    "endOffset": 118550
+                    "endOffset": 118547
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -8803,9 +8803,9 @@
                 "to": {
                     "startLine": 1610,
                     "startColumn": 4,
-                    "startOffset": 118555,
+                    "startOffset": 118552,
                     "endColumn": 107,
-                    "endOffset": 118658
+                    "endOffset": 118655
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -8822,9 +8822,9 @@
                 "to": {
                     "startLine": 1611,
                     "startColumn": 4,
-                    "startOffset": 118663,
+                    "startOffset": 118660,
                     "endColumn": 99,
-                    "endOffset": 118758
+                    "endOffset": 118755
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -8841,9 +8841,9 @@
                 "to": {
                     "startLine": 1612,
                     "startColumn": 4,
-                    "startOffset": 118763,
+                    "startOffset": 118760,
                     "endColumn": 79,
-                    "endOffset": 118838
+                    "endOffset": 118835
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -8860,9 +8860,9 @@
                 "to": {
                     "startLine": 1613,
                     "startColumn": 4,
-                    "startOffset": 118843,
+                    "startOffset": 118840,
                     "endColumn": 91,
-                    "endOffset": 118930
+                    "endOffset": 118927
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -8879,9 +8879,9 @@
                 "to": {
                     "startLine": 1614,
                     "startColumn": 4,
-                    "startOffset": 118935,
+                    "startOffset": 118932,
                     "endColumn": 97,
-                    "endOffset": 119028
+                    "endOffset": 119025
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -8898,10 +8898,10 @@
                 "to": {
                     "startLine": 1615,
                     "startColumn": 4,
-                    "startOffset": 119033,
+                    "startOffset": 119030,
                     "endLine": 1616,
                     "endColumn": 12,
-                    "endOffset": 119138
+                    "endOffset": 119135
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -8919,9 +8919,9 @@
                 "to": {
                     "startLine": 1617,
                     "startColumn": 4,
-                    "startOffset": 119143,
+                    "startOffset": 119140,
                     "endColumn": 77,
-                    "endOffset": 119216
+                    "endOffset": 119213
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -8938,9 +8938,9 @@
                 "to": {
                     "startLine": 1618,
                     "startColumn": 4,
-                    "startOffset": 119221,
+                    "startOffset": 119218,
                     "endColumn": 105,
-                    "endOffset": 119322
+                    "endOffset": 119319
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -8957,9 +8957,9 @@
                 "to": {
                     "startLine": 1619,
                     "startColumn": 4,
-                    "startOffset": 119327,
+                    "startOffset": 119324,
                     "endColumn": 91,
-                    "endOffset": 119414
+                    "endOffset": 119411
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -8976,9 +8976,9 @@
                 "to": {
                     "startLine": 1620,
                     "startColumn": 4,
-                    "startOffset": 119419,
+                    "startOffset": 119416,
                     "endColumn": 103,
-                    "endOffset": 119518
+                    "endOffset": 119515
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -8995,9 +8995,9 @@
                 "to": {
                     "startLine": 1621,
                     "startColumn": 4,
-                    "startOffset": 119523,
+                    "startOffset": 119520,
                     "endColumn": 109,
-                    "endOffset": 119628
+                    "endOffset": 119625
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -9014,10 +9014,10 @@
                 "to": {
                     "startLine": 1622,
                     "startColumn": 4,
-                    "startOffset": 119633,
+                    "startOffset": 119630,
                     "endLine": 1623,
                     "endColumn": 12,
-                    "endOffset": 119750
+                    "endOffset": 119747
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -9035,10 +9035,10 @@
                 "to": {
                     "startLine": 1624,
                     "startColumn": 4,
-                    "startOffset": 119755,
+                    "startOffset": 119752,
                     "endLine": 1627,
                     "endColumn": 12,
-                    "endOffset": 119913
+                    "endOffset": 119910
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -9056,10 +9056,10 @@
                 "to": {
                     "startLine": 1628,
                     "startColumn": 4,
-                    "startOffset": 119918,
+                    "startOffset": 119915,
                     "endLine": 1631,
                     "endColumn": 12,
-                    "endOffset": 120070
+                    "endOffset": 120067
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -9077,9 +9077,9 @@
                 "to": {
                     "startLine": 1632,
                     "startColumn": 4,
-                    "startOffset": 120075,
+                    "startOffset": 120072,
                     "endColumn": 79,
-                    "endOffset": 120150
+                    "endOffset": 120147
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -9096,9 +9096,9 @@
                 "to": {
                     "startLine": 1633,
                     "startColumn": 4,
-                    "startOffset": 120155,
+                    "startOffset": 120152,
                     "endColumn": 99,
-                    "endOffset": 120250
+                    "endOffset": 120247
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -9115,9 +9115,9 @@
                 "to": {
                     "startLine": 1634,
                     "startColumn": 4,
-                    "startOffset": 120255,
+                    "startOffset": 120252,
                     "endColumn": 89,
-                    "endOffset": 120340
+                    "endOffset": 120337
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -9134,9 +9134,9 @@
                 "to": {
                     "startLine": 1635,
                     "startColumn": 4,
-                    "startOffset": 120345,
+                    "startOffset": 120342,
                     "endColumn": 109,
-                    "endOffset": 120450
+                    "endOffset": 120447
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -9153,9 +9153,9 @@
                 "to": {
                     "startLine": 1636,
                     "startColumn": 4,
-                    "startOffset": 120455,
+                    "startOffset": 120452,
                     "endColumn": 93,
-                    "endOffset": 120544
+                    "endOffset": 120541
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -9172,9 +9172,9 @@
                 "to": {
                     "startLine": 1637,
                     "startColumn": 4,
-                    "startOffset": 120549,
+                    "startOffset": 120546,
                     "endColumn": 105,
-                    "endOffset": 120650
+                    "endOffset": 120647
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -9191,9 +9191,9 @@
                 "to": {
                     "startLine": 1638,
                     "startColumn": 4,
-                    "startOffset": 120655,
+                    "startOffset": 120652,
                     "endColumn": 91,
-                    "endOffset": 120742
+                    "endOffset": 120739
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -9210,10 +9210,10 @@
                 "to": {
                     "startLine": 1639,
                     "startColumn": 4,
-                    "startOffset": 120747,
+                    "startOffset": 120744,
                     "endLine": 1640,
                     "endColumn": 12,
-                    "endOffset": 120842
+                    "endOffset": 120839
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -9231,10 +9231,10 @@
                 "to": {
                     "startLine": 1641,
                     "startColumn": 4,
-                    "startOffset": 120847,
+                    "startOffset": 120844,
                     "endLine": 1642,
                     "endColumn": 12,
-                    "endOffset": 120954
+                    "endOffset": 120951
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -9252,10 +9252,10 @@
                 "to": {
                     "startLine": 1643,
                     "startColumn": 4,
-                    "startOffset": 120959,
+                    "startOffset": 120956,
                     "endLine": 1644,
                     "endColumn": 12,
-                    "endOffset": 121068
+                    "endOffset": 121065
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -9273,10 +9273,10 @@
                 "to": {
                     "startLine": 1645,
                     "startColumn": 4,
-                    "startOffset": 121073,
+                    "startOffset": 121070,
                     "endLine": 1646,
                     "endColumn": 12,
-                    "endOffset": 121184
+                    "endOffset": 121181
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -9294,10 +9294,10 @@
                 "to": {
                     "startLine": 1647,
                     "startColumn": 4,
-                    "startOffset": 121189,
+                    "startOffset": 121186,
                     "endLine": 1648,
                     "endColumn": 12,
-                    "endOffset": 121300
+                    "endOffset": 121297
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -9315,9 +9315,9 @@
                 "to": {
                     "startLine": 1649,
                     "startColumn": 4,
-                    "startOffset": 121305,
+                    "startOffset": 121302,
                     "endColumn": 93,
-                    "endOffset": 121394
+                    "endOffset": 121391
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -9334,9 +9334,9 @@
                 "to": {
                     "startLine": 1650,
                     "startColumn": 4,
-                    "startOffset": 121399,
+                    "startOffset": 121396,
                     "endColumn": 113,
-                    "endOffset": 121508
+                    "endOffset": 121505
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -9353,9 +9353,9 @@
                 "to": {
                     "startLine": 1651,
                     "startColumn": 4,
-                    "startOffset": 121513,
+                    "startOffset": 121510,
                     "endColumn": 111,
-                    "endOffset": 121620
+                    "endOffset": 121617
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -9372,10 +9372,10 @@
                 "to": {
                     "startLine": 1652,
                     "startColumn": 4,
-                    "startOffset": 121625,
+                    "startOffset": 121622,
                     "endLine": 1653,
                     "endColumn": 12,
-                    "endOffset": 121722
+                    "endOffset": 121719
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -9393,10 +9393,10 @@
                 "to": {
                     "startLine": 1654,
                     "startColumn": 4,
-                    "startOffset": 121727,
+                    "startOffset": 121724,
                     "endLine": 1655,
                     "endColumn": 12,
-                    "endOffset": 121842
+                    "endOffset": 121839
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -9414,10 +9414,10 @@
                 "to": {
                     "startLine": 1656,
                     "startColumn": 4,
-                    "startOffset": 121847,
+                    "startOffset": 121844,
                     "endLine": 1657,
                     "endColumn": 12,
-                    "endOffset": 121964
+                    "endOffset": 121961
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -9435,9 +9435,9 @@
                 "to": {
                     "startLine": 1658,
                     "startColumn": 4,
-                    "startOffset": 121969,
+                    "startOffset": 121966,
                     "endColumn": 81,
-                    "endOffset": 122046
+                    "endOffset": 122043
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -9454,9 +9454,9 @@
                 "to": {
                     "startLine": 1659,
                     "startColumn": 4,
-                    "startOffset": 122051,
+                    "startOffset": 122048,
                     "endColumn": 103,
-                    "endOffset": 122150
+                    "endOffset": 122147
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -9473,9 +9473,9 @@
                 "to": {
                     "startLine": 1660,
                     "startColumn": 4,
-                    "startOffset": 122155,
+                    "startOffset": 122152,
                     "endColumn": 119,
-                    "endOffset": 122270
+                    "endOffset": 122267
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -9492,9 +9492,9 @@
                 "to": {
                     "startLine": 1661,
                     "startColumn": 4,
-                    "startOffset": 122275,
+                    "startOffset": 122272,
                     "endColumn": 125,
-                    "endOffset": 122396
+                    "endOffset": 122393
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -9511,9 +9511,9 @@
                 "to": {
                     "startLine": 1662,
                     "startColumn": 4,
-                    "startOffset": 122401,
+                    "startOffset": 122398,
                     "endColumn": 97,
-                    "endOffset": 122494
+                    "endOffset": 122491
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -9530,9 +9530,9 @@
                 "to": {
                     "startLine": 1663,
                     "startColumn": 4,
-                    "startOffset": 122499,
+                    "startOffset": 122496,
                     "endColumn": 93,
-                    "endOffset": 122588
+                    "endOffset": 122585
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -9549,9 +9549,9 @@
                 "to": {
                     "startLine": 1664,
                     "startColumn": 4,
-                    "startOffset": 122593,
+                    "startOffset": 122590,
                     "endColumn": 87,
-                    "endOffset": 122676
+                    "endOffset": 122673
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -9568,9 +9568,9 @@
                 "to": {
                     "startLine": 1665,
                     "startColumn": 4,
-                    "startOffset": 122681,
+                    "startOffset": 122678,
                     "endColumn": 111,
-                    "endOffset": 122788
+                    "endOffset": 122785
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -9587,9 +9587,9 @@
                 "to": {
                     "startLine": 1666,
                     "startColumn": 4,
-                    "startOffset": 122793,
+                    "startOffset": 122790,
                     "endColumn": 115,
-                    "endOffset": 122904
+                    "endOffset": 122901
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -9606,9 +9606,9 @@
                 "to": {
                     "startLine": 1667,
                     "startColumn": 4,
-                    "startOffset": 122909,
+                    "startOffset": 122906,
                     "endColumn": 121,
-                    "endOffset": 123026
+                    "endOffset": 123023
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -9625,9 +9625,9 @@
                 "to": {
                     "startLine": 1668,
                     "startColumn": 4,
-                    "startOffset": 123031,
+                    "startOffset": 123028,
                     "endColumn": 111,
-                    "endOffset": 123138
+                    "endOffset": 123135
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -9644,10 +9644,10 @@
                 "to": {
                     "startLine": 1669,
                     "startColumn": 4,
-                    "startOffset": 123143,
+                    "startOffset": 123140,
                     "endLine": 1671,
                     "endColumn": 12,
-                    "endOffset": 123313
+                    "endOffset": 123310
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -9665,9 +9665,9 @@
                 "to": {
                     "startLine": 1672,
                     "startColumn": 4,
-                    "startOffset": 123318,
+                    "startOffset": 123315,
                     "endColumn": 115,
-                    "endOffset": 123429
+                    "endOffset": 123426
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -9684,9 +9684,9 @@
                 "to": {
                     "startLine": 1673,
                     "startColumn": 4,
-                    "startOffset": 123434,
+                    "startOffset": 123431,
                     "endColumn": 85,
-                    "endOffset": 123515
+                    "endOffset": 123512
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -9703,9 +9703,9 @@
                 "to": {
                     "startLine": 1674,
                     "startColumn": 4,
-                    "startOffset": 123520,
+                    "startOffset": 123517,
                     "endColumn": 91,
-                    "endOffset": 123607
+                    "endOffset": 123604
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -9722,10 +9722,10 @@
                 "to": {
                     "startLine": 1675,
                     "startColumn": 4,
-                    "startOffset": 123612,
+                    "startOffset": 123609,
                     "endLine": 1676,
                     "endColumn": 12,
-                    "endOffset": 123719
+                    "endOffset": 123716
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -9743,10 +9743,10 @@
                 "to": {
                     "startLine": 1677,
                     "startColumn": 4,
-                    "startOffset": 123724,
+                    "startOffset": 123721,
                     "endLine": 1678,
                     "endColumn": 12,
-                    "endOffset": 123843
+                    "endOffset": 123840
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -9764,9 +9764,9 @@
                 "to": {
                     "startLine": 1679,
                     "startColumn": 4,
-                    "startOffset": 123848,
+                    "startOffset": 123845,
                     "endColumn": 66,
-                    "endOffset": 123910
+                    "endOffset": 123907
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -9783,10 +9783,10 @@
                 "to": {
                     "startLine": 1680,
                     "startColumn": 4,
-                    "startOffset": 123915,
+                    "startOffset": 123912,
                     "endLine": 1681,
                     "endColumn": 12,
-                    "endOffset": 124036
+                    "endOffset": 124033
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -9804,9 +9804,9 @@
                 "to": {
                     "startLine": 1682,
                     "startColumn": 4,
-                    "startOffset": 124041,
+                    "startOffset": 124038,
                     "endColumn": 67,
-                    "endOffset": 124104
+                    "endOffset": 124101
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -9823,10 +9823,10 @@
                 "to": {
                     "startLine": 1683,
                     "startColumn": 4,
-                    "startOffset": 124109,
+                    "startOffset": 124106,
                     "endLine": 1684,
                     "endColumn": 12,
-                    "endOffset": 124232
+                    "endOffset": 124229
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -9844,10 +9844,10 @@
                 "to": {
                     "startLine": 1685,
                     "startColumn": 4,
-                    "startOffset": 124237,
+                    "startOffset": 124234,
                     "endLine": 1686,
                     "endColumn": 12,
-                    "endOffset": 124376
+                    "endOffset": 124373
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -9865,10 +9865,10 @@
                 "to": {
                     "startLine": 1687,
                     "startColumn": 4,
-                    "startOffset": 124381,
+                    "startOffset": 124378,
                     "endLine": 1688,
                     "endColumn": 12,
-                    "endOffset": 124504
+                    "endOffset": 124501
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -9886,9 +9886,9 @@
                 "to": {
                     "startLine": 1689,
                     "startColumn": 4,
-                    "startOffset": 124509,
+                    "startOffset": 124506,
                     "endColumn": 68,
-                    "endOffset": 124573
+                    "endOffset": 124570
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -9905,9 +9905,9 @@
                 "to": {
                     "startLine": 1690,
                     "startColumn": 4,
-                    "startOffset": 124578,
+                    "startOffset": 124575,
                     "endColumn": 94,
-                    "endOffset": 124668
+                    "endOffset": 124665
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -9924,9 +9924,9 @@
                 "to": {
                     "startLine": 1691,
                     "startColumn": 4,
-                    "startOffset": 124673,
+                    "startOffset": 124670,
                     "endColumn": 114,
-                    "endOffset": 124783
+                    "endOffset": 124780
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -9943,9 +9943,9 @@
                 "to": {
                     "startLine": 1692,
                     "startColumn": 4,
-                    "startOffset": 124788,
+                    "startOffset": 124785,
                     "endColumn": 112,
-                    "endOffset": 124896
+                    "endOffset": 124893
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -9962,9 +9962,9 @@
                 "to": {
                     "startLine": 1693,
                     "startColumn": 4,
-                    "startOffset": 124901,
+                    "startOffset": 124898,
                     "endColumn": 98,
-                    "endOffset": 124995
+                    "endOffset": 124992
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -9981,9 +9981,9 @@
                 "to": {
                     "startLine": 1694,
                     "startColumn": 4,
-                    "startOffset": 125000,
+                    "startOffset": 124997,
                     "endColumn": 108,
-                    "endOffset": 125104
+                    "endOffset": 125101
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -10000,9 +10000,9 @@
                 "to": {
                     "startLine": 1695,
                     "startColumn": 4,
-                    "startOffset": 125109,
+                    "startOffset": 125106,
                     "endColumn": 110,
-                    "endOffset": 125215
+                    "endOffset": 125212
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -10019,9 +10019,9 @@
                 "to": {
                     "startLine": 1696,
                     "startColumn": 4,
-                    "startOffset": 125220,
+                    "startOffset": 125217,
                     "endColumn": 110,
-                    "endOffset": 125326
+                    "endOffset": 125323
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -10038,9 +10038,9 @@
                 "to": {
                     "startLine": 1697,
                     "startColumn": 4,
-                    "startOffset": 125331,
+                    "startOffset": 125328,
                     "endColumn": 100,
-                    "endOffset": 125427
+                    "endOffset": 125424
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -10057,9 +10057,9 @@
                 "to": {
                     "startLine": 1698,
                     "startColumn": 4,
-                    "startOffset": 125432,
+                    "startOffset": 125429,
                     "endColumn": 104,
-                    "endOffset": 125532
+                    "endOffset": 125529
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -10076,9 +10076,9 @@
                 "to": {
                     "startLine": 1699,
                     "startColumn": 4,
-                    "startOffset": 125537,
+                    "startOffset": 125534,
                     "endColumn": 99,
-                    "endOffset": 125632
+                    "endOffset": 125629
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -10095,10 +10095,10 @@
                 "to": {
                     "startLine": 1700,
                     "startColumn": 4,
-                    "startOffset": 125637,
+                    "startOffset": 125634,
                     "endLine": 1701,
                     "endColumn": 12,
-                    "endOffset": 125762
+                    "endOffset": 125759
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -10116,9 +10116,9 @@
                 "to": {
                     "startLine": 1702,
                     "startColumn": 4,
-                    "startOffset": 125767,
+                    "startOffset": 125764,
                     "endColumn": 90,
-                    "endOffset": 125853
+                    "endOffset": 125850
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -10135,9 +10135,9 @@
                 "to": {
                     "startLine": 1703,
                     "startColumn": 4,
-                    "startOffset": 125858,
+                    "startOffset": 125855,
                     "endColumn": 122,
-                    "endOffset": 125976
+                    "endOffset": 125973
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -10154,9 +10154,9 @@
                 "to": {
                     "startLine": 1704,
                     "startColumn": 4,
-                    "startOffset": 125981,
+                    "startOffset": 125978,
                     "endColumn": 93,
-                    "endOffset": 126070
+                    "endOffset": 126067
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -10173,10 +10173,10 @@
                 "to": {
                     "startLine": 1705,
                     "startColumn": 4,
-                    "startOffset": 126075,
+                    "startOffset": 126072,
                     "endLine": 1706,
                     "endColumn": 12,
-                    "endOffset": 126182
+                    "endOffset": 126179
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -10194,9 +10194,9 @@
                 "to": {
                     "startLine": 1707,
                     "startColumn": 4,
-                    "startOffset": 126187,
+                    "startOffset": 126184,
                     "endColumn": 85,
-                    "endOffset": 126268
+                    "endOffset": 126265
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -10213,9 +10213,9 @@
                 "to": {
                     "startLine": 1708,
                     "startColumn": 4,
-                    "startOffset": 126273,
+                    "startOffset": 126270,
                     "endColumn": 103,
-                    "endOffset": 126372
+                    "endOffset": 126369
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -10232,9 +10232,9 @@
                 "to": {
                     "startLine": 1709,
                     "startColumn": 4,
-                    "startOffset": 126377,
+                    "startOffset": 126374,
                     "endColumn": 95,
-                    "endOffset": 126468
+                    "endOffset": 126465
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -10251,9 +10251,9 @@
                 "to": {
                     "startLine": 1710,
                     "startColumn": 4,
-                    "startOffset": 126473,
+                    "startOffset": 126470,
                     "endColumn": 74,
-                    "endOffset": 126543
+                    "endOffset": 126540
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -10270,9 +10270,9 @@
                 "to": {
                     "startLine": 1711,
                     "startColumn": 4,
-                    "startOffset": 126548,
+                    "startOffset": 126545,
                     "endColumn": 69,
-                    "endOffset": 126613
+                    "endOffset": 126610
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -10289,9 +10289,9 @@
                 "to": {
                     "startLine": 1712,
                     "startColumn": 4,
-                    "startOffset": 126618,
+                    "startOffset": 126615,
                     "endColumn": 87,
-                    "endOffset": 126701
+                    "endOffset": 126698
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -10308,10 +10308,10 @@
                 "to": {
                     "startLine": 1713,
                     "startColumn": 4,
-                    "startOffset": 126706,
+                    "startOffset": 126703,
                     "endLine": 1714,
                     "endColumn": 12,
-                    "endOffset": 126819
+                    "endOffset": 126816
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -10329,10 +10329,10 @@
                 "to": {
                     "startLine": 1715,
                     "startColumn": 4,
-                    "startOffset": 126824,
+                    "startOffset": 126821,
                     "endLine": 1716,
                     "endColumn": 12,
-                    "endOffset": 126923
+                    "endOffset": 126920
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -10350,10 +10350,10 @@
                 "to": {
                     "startLine": 1717,
                     "startColumn": 4,
-                    "startOffset": 126928,
+                    "startOffset": 126925,
                     "endLine": 1718,
                     "endColumn": 12,
-                    "endOffset": 127027
+                    "endOffset": 127024
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -10371,10 +10371,10 @@
                 "to": {
                     "startLine": 1719,
                     "startColumn": 4,
-                    "startOffset": 127032,
+                    "startOffset": 127029,
                     "endLine": 1720,
                     "endColumn": 12,
-                    "endOffset": 127153
+                    "endOffset": 127150
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -10392,9 +10392,9 @@
                 "to": {
                     "startLine": 1721,
                     "startColumn": 4,
-                    "startOffset": 127158,
+                    "startOffset": 127155,
                     "endColumn": 87,
-                    "endOffset": 127241
+                    "endOffset": 127238
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -10411,9 +10411,9 @@
                 "to": {
                     "startLine": 1722,
                     "startColumn": 4,
-                    "startOffset": 127246,
+                    "startOffset": 127243,
                     "endColumn": 107,
-                    "endOffset": 127349
+                    "endOffset": 127346
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -10430,9 +10430,9 @@
                 "to": {
                     "startLine": 1723,
                     "startColumn": 4,
-                    "startOffset": 127354,
+                    "startOffset": 127351,
                     "endColumn": 99,
-                    "endOffset": 127449
+                    "endOffset": 127446
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -10449,9 +10449,9 @@
                 "to": {
                     "startLine": 1724,
                     "startColumn": 4,
-                    "startOffset": 127454,
+                    "startOffset": 127451,
                     "endColumn": 89,
-                    "endOffset": 127539
+                    "endOffset": 127536
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -10468,9 +10468,9 @@
                 "to": {
                     "startLine": 1725,
                     "startColumn": 4,
-                    "startOffset": 127544,
+                    "startOffset": 127541,
                     "endColumn": 109,
-                    "endOffset": 127649
+                    "endOffset": 127646
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -10487,9 +10487,9 @@
                 "to": {
                     "startLine": 1726,
                     "startColumn": 4,
-                    "startOffset": 127654,
+                    "startOffset": 127651,
                     "endColumn": 83,
-                    "endOffset": 127733
+                    "endOffset": 127730
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -10506,9 +10506,9 @@
                 "to": {
                     "startLine": 1727,
                     "startColumn": 4,
-                    "startOffset": 127738,
+                    "startOffset": 127735,
                     "endColumn": 101,
-                    "endOffset": 127835
+                    "endOffset": 127832
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -10525,9 +10525,9 @@
                 "to": {
                     "startLine": 1728,
                     "startColumn": 4,
-                    "startOffset": 127840,
+                    "startOffset": 127837,
                     "endColumn": 83,
-                    "endOffset": 127919
+                    "endOffset": 127916
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -10544,9 +10544,9 @@
                 "to": {
                     "startLine": 1729,
                     "startColumn": 4,
-                    "startOffset": 127924,
+                    "startOffset": 127921,
                     "endColumn": 53,
-                    "endOffset": 127973
+                    "endOffset": 127970
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -10563,9 +10563,9 @@
                 "to": {
                     "startLine": 1730,
                     "startColumn": 4,
-                    "startOffset": 127978,
+                    "startOffset": 127975,
                     "endColumn": 63,
-                    "endOffset": 128037
+                    "endOffset": 128034
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -10582,9 +10582,9 @@
                 "to": {
                     "startLine": 1731,
                     "startColumn": 4,
-                    "startOffset": 128042,
+                    "startOffset": 128039,
                     "endColumn": 105,
-                    "endOffset": 128143
+                    "endOffset": 128140
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -10601,9 +10601,9 @@
                 "to": {
                     "startLine": 1732,
                     "startColumn": 4,
-                    "startOffset": 128148,
+                    "startOffset": 128145,
                     "endColumn": 109,
-                    "endOffset": 128253
+                    "endOffset": 128250
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -10620,9 +10620,9 @@
                 "to": {
                     "startLine": 1733,
                     "startColumn": 4,
-                    "startOffset": 128258,
+                    "startOffset": 128255,
                     "endColumn": 83,
-                    "endOffset": 128337
+                    "endOffset": 128334
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",
@@ -10639,9 +10639,9 @@
                 "to": {
                     "startLine": 1734,
                     "startColumn": 4,
-                    "startOffset": 128342,
+                    "startOffset": 128339,
                     "endColumn": 119,
-                    "endOffset": 128457
+                    "endOffset": 128454
                 },
                 "from": {
                     "file": "/Users/crionline/.android/build-cache/adf320edf00f417ac5edabf731cac6bcaa806b9e/output/res/values/values.xml",

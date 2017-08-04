@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.xqy.slidingmenu.test" >
+    package="www.xqy.cn.library.test" >
 
     <uses-sdk
         android:minSdkVersion="19"
@@ -10,17 +10,14 @@
         android:name="android.support.test.runner.AndroidJUnitRunner"
         android:functionalTest="false"
         android:handleProfiling="false"
-        android:label="Tests for com.xqy.slidingmenu.test"
-        android:targetPackage="com.xqy.slidingmenu.test" />
+        android:label="Tests for www.xqy.cn.library.test"
+        android:targetPackage="www.xqy.cn.library.test" />
 
     <meta-data
         android:name="android.support.VERSION"
         android:value="26.0.0-alpha1" />
 
-    <application
-        android:allowBackup="true"
-        android:label="@string/app_name"
-        android:supportsRtl="true" >
+    <application>
         <uses-library android:name="android.test.runner" />
     </application>
 
