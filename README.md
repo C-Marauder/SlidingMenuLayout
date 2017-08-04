@@ -6,7 +6,7 @@ kotlin 侧滑菜单
 
 2. 使用简单,无需在xml中写布局
 
-
+```kotlin
  SlidingMenuBuilder(this)
                 .bindMenuView(R.layout.drawer_menu) //绑定菜单
                 .bindToolbar(mToolbar,resId)//如果用到toolbar,可以绑定toolbar,第二个参数是icon
@@ -26,3 +26,4 @@ kotlin 侧滑菜单
 
                 })
                 .init()//初始化
+```
