@@ -2,7 +2,7 @@
 
 kotlin 侧滑菜单
 
-1. compile 'com.xqy.slidingmenu:slidingmenulayout:1.0.0'
+<em> compile 'com.xqy.slidingmenu:slidingmenulayout:1.0.1' </em>
 
 2. 使用简单,无需在xml中写布局
 
