@@ -10,7 +10,10 @@ kotlin 侧滑菜单
  SlidingMenuBuilder(this)
                 .bindMenuView(R.layout.drawer_menu) //绑定菜单
                 .bindToolbar(mToolbar,resId)//如果用到toolbar,可以绑定toolbar,第二个参数是icon
-		.setDragListener(object :DragListener{//拖拽监听
+				.scaleFaction(0.7f)//缩放比例,非必须设置,有默认值
+                .translateFaction(2/3f)//移动比例,非必须设置,有默认值
+				.setMenuBackgroud(colorResId)//设置菜单背景
+				.setDragListener(object :DragListener{//拖拽监听
                 
                     override fun isOpened() { //打开状态                 			
                       	  	Toast.makeText(this@MainActivity,"isOpened",Toast.LENGTH_SHORT).show()
