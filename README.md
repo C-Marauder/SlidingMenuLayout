@@ -2,19 +2,17 @@
 
 kotlin 侧滑菜单
 
-1. compile 'www.xqy.cn.library:library:1.0.0'
+1. compile 'com.xqy.slidingmenu:slidingmenulayout:1.0.0'
 
 2. 使用简单,无需在xml中写布局
 
 
-
-                SlidingMenuBuilder(this)
+``` kotlin
+                SlidingMenuBuilder(this)
     
-                .bindMenuView(R.layout.drawer_menu)
-                
-                .bindToolbar(mToolbar)
-                
-                .setDragListener(object :DragListener{
+                .bindMenuView(R.layout.drawer_menu) 
+                
+                .bindToolbar(mToolbar).setDragListener(object :DragListener{
                 
                     override fun isOpened() {
                         Toast.makeText(this@MainActivity,"isOpened",Toast.LENGTH_SHORT).show()
@@ -29,4 +27,5 @@ kotlin 侧滑菜单
                     }
 
                 })
-                .init()
+                .init()
+```
