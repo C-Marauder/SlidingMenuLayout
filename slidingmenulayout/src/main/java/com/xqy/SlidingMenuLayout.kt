@@ -1,4 +1,4 @@
-package www.xqy.cn.library
+package com.xqy
 
 import android.animation.FloatEvaluator
 import android.content.Context
@@ -9,6 +9,7 @@ import android.view.MotionEvent
 import android.view.View
 import android.widget.FrameLayout
 
+
 /**
  * Created by XieQiongYu on 2017/7/29.
  * @Date 2017/7/29
@@ -17,11 +18,12 @@ import android.widget.FrameLayout
  * ^_^ 今天敲一行代码，明天敲一行代码，到了后天你就会有两行代码。
  */
 internal class SlidingMenuLayout : FrameLayout, SlideMenuHelper {
+    override var mContentScaleFaction: Float = 0.7f
     var mDragListener: DragListener? = null
 
     override var mTranslateFaction: Float = 2 / 3f //默认位移比例
 
-    override var mScaleFaction: Float = 0.7f //默认缩放比例
+    override var mMenuScaleFaction: Float = 1.0f //默认缩放比例
 
     override lateinit var mMenuView: View //菜单
 
@@ -34,12 +36,7 @@ internal class SlidingMenuLayout : FrameLayout, SlideMenuHelper {
     private var mLeft: Int = 0
     private lateinit var floatEvaluator: FloatEvaluator
     var currentDragState = DragState.isClosed
-    enum class DragState{
-        isOpened,
-        isClosed,
-        isDragging
 
-    }
 
     /**
      * @Author :xqy
@@ -50,9 +47,12 @@ internal class SlidingMenuLayout : FrameLayout, SlideMenuHelper {
     fun openMenu() {
 
         if (mViewDragHelper.smoothSlideViewTo(mContentView, mRange, mContentView.top)) {
+            mMenuView.layout(0,0,mMenuView.measuredWidth,mMenuView.bottom)
+            invalidate()
             ViewCompat.postInvalidateOnAnimation(this)
 
         }
+
 
     }
 
@@ -64,11 +64,13 @@ internal class SlidingMenuLayout : FrameLayout, SlideMenuHelper {
      **/
     fun closeMenu() {
 
-        if ( mViewDragHelper.smoothSlideViewTo(mContentView, 0, 0)) {
+        if (mViewDragHelper.smoothSlideViewTo(mContentView, 0, 0)) {
             ViewCompat.postInvalidateOnAnimation(this)
         }
 
-
+//        if (mViewDragHelper.smoothSlideViewTo(mContentView, 0, 0)) {
+//            ViewCompat.postInvalidateOnAnimation(this)
+//        }
     }
 
     constructor(context: Context?, attrs: AttributeSet?) : super(context, attrs) {
@@ -86,7 +88,7 @@ internal class SlidingMenuLayout : FrameLayout, SlideMenuHelper {
 
 
     private fun init() {
-        mViewDragHelper = ViewDragHelper.create(this, 0.7f, ViewDragCallBack())
+        mViewDragHelper = ViewDragHelper.create(this, 1f, ViewDragCallBack())
         mViewDragHelper.setEdgeTrackingEnabled(ViewDragHelper.EDGE_LEFT)
         floatEvaluator = FloatEvaluator()
 
@@ -95,18 +97,23 @@ internal class SlidingMenuLayout : FrameLayout, SlideMenuHelper {
 
     override fun onMeasure(widthMeasureSpec: Int, heightMeasureSpec: Int) {
         super.onMeasure(widthMeasureSpec, heightMeasureSpec)
-        val width = getDefaultSize(suggestedMinimumWidth, widthMeasureSpec)//得到viewgroup的宽高
-        val height = getDefaultSize(suggestedMinimumHeight, heightMeasureSpec)
         val lp = mMenuView.layoutParams
-        lp.width = mRange + ((width - mRange) * (1 - mScaleFaction)).toInt()
+        lp.width = ((1 - mTranslateFaction) * measuredWidth * (1 - mContentScaleFaction)*1.5 + measuredWidth * mTranslateFaction).toInt()
+        lp.height = measuredHeight
         mMenuView.layoutParams = lp
-        measureChild(mMenuView, width, height)
+        measureChild(mMenuView, measuredWidth, measuredHeight)
     }
 
 
     private inner class ViewDragCallBack : ViewDragHelper.Callback() {
+
         override fun tryCaptureView(child: View?, pointerId: Int): Boolean {
-            return child == mContentView
+            if ((edgeTouched and  (child == mContentView)) or  (child == mMenuView) or
+                    ((currentDragState == DragState.isOpened) and (child == mContentView))) {
+                return true
+            }
+
+            return false
         }
 
         override fun clampViewPositionHorizontal(child: View?, left: Int, dx: Int): Int {
@@ -118,6 +125,13 @@ internal class SlidingMenuLayout : FrameLayout, SlideMenuHelper {
                     mLeft = mRange
                 }
                 //返回子控件拖动后左侧的位置
+            }
+            if (child == mMenuView) {
+                if (left <= -mRange / 2) {
+                    mLeft = -mRange / 2
+                } else if (left >= 0) {
+                    mLeft = 0
+                }
             }
 
             return mLeft
@@ -132,24 +146,45 @@ internal class SlidingMenuLayout : FrameLayout, SlideMenuHelper {
             val dragProgress = Math.abs(changedView!!.left * 1f / mRange)
 
             if (dragProgress == 0.0f) {
-                currentDragState = DragState.isClosed
+                if (changedView == mMenuView) {
+                    currentDragState = DragState.isOpened
+                } else if (changedView == mContentView) {
+                    currentDragState = DragState.isClosed
+
+                }
+
 
             } else if (dragProgress == 1.0f) {
                 currentDragState = DragState.isOpened
-            }else{
+            } else {
                 currentDragState = DragState.isDragging
             }
             if (mDragListener != null) {
 
-                when(currentDragState){
-                    DragState.isOpened -> mDragListener!!.isOpened()
-                    DragState.isClosed -> mDragListener!!.isClosed()
+                when (currentDragState) {
+                    DragState.isOpened -> {
+                        mDragListener!!.isOpened()
+                        edgeTouched = false
+                    }
+                    DragState.isClosed -> {
+                        mDragListener!!.isClosed()
+                        edgeTouched = false
+                    }
                     DragState.isDragging -> mDragListener!!.onDrag(dragProgress)
                 }
 
             }
-            contentViewAnim(dragProgress)
-            menuViewAnim(dragProgress)
+
+            if (changedView == mContentView) {
+                //mMenuView.layout(mMenuView.left+dx/2,mMenuView.top,mMenuView.right+dx/2,mMenuView.bottom)
+                contentViewAnim(dragProgress, true)
+                menuViewAnim(dragProgress, true)
+            } else if (changedView == mMenuView) {
+
+                mContentView.layout(mContentView.left + dx * 2, mContentView.top, mContentView.right + dx * 2, mContentView.bottom)
+                contentViewAnim(dragProgress, false)
+                menuViewAnim(dragProgress, false)
+            }
 
         }
 
@@ -174,12 +209,25 @@ internal class SlidingMenuLayout : FrameLayout, SlideMenuHelper {
          * @function : 菜单动画
          *
          **/
-        private fun menuViewAnim(fraction: Float) {
+        private fun menuViewAnim(fraction: Float, isOpen: Boolean) {
+            if (isOpen) {
+                mMenuView.translationX = floatEvaluator.evaluate(fraction, -mRange/2 , 0)
+                if (mMenuScaleFaction!= 1f){
+                mMenuView.scaleX = floatEvaluator.evaluate(fraction, 0, 1f)
+                mMenuView.scaleY = floatEvaluator.evaluate(fraction, 0, 1f)
+                }
+                mMenuView.alpha = fraction
+            } else {
+                mMenuView.translationX = floatEvaluator.evaluate(fraction, 0, -mRange / 2)
+                if (mMenuScaleFaction != 1f){
+                    mMenuView.scaleX = floatEvaluator.evaluate(fraction, 1f, 0)
+                    mMenuView.scaleY = floatEvaluator.evaluate(fraction, 1f, 0)
+                }
 
-            mMenuView.translationX = floatEvaluator.evaluate(fraction, -mMenuView.width, 0)
-            mMenuView.scaleX = floatEvaluator.evaluate(fraction, 0, 1f)
-            mMenuView.scaleY = floatEvaluator.evaluate(fraction, 0, 1f)
-            mMenuView.alpha = fraction
+                mMenuView.alpha = 1 - fraction
+            }
+
+
         }
 
         /**
@@ -188,33 +236,32 @@ internal class SlidingMenuLayout : FrameLayout, SlideMenuHelper {
          * @function :内容视图动画
          *
          **/
-        private fun contentViewAnim(fraction: Float) {
+        private fun contentViewAnim(fraction: Float, isOpen: Boolean) {
+            if (isOpen) {
+                mContentView.scaleY = floatEvaluator.evaluate(fraction, 1f, mContentScaleFaction)
+                mContentView.scaleX = floatEvaluator.evaluate(fraction, 1f, mContentScaleFaction)
+            } else {
+                //mContentView.translationX = floatEvaluator.evaluate(fraction, mContentView.left, 0)
+                mContentView.scaleY = floatEvaluator.evaluate(fraction * 2, mContentScaleFaction, 1f)
+                mContentView.scaleX = floatEvaluator.evaluate(fraction * 2, mContentScaleFaction, 1f)
+            }
 
-            mContentView.scaleY = floatEvaluator.evaluate(fraction, 1f, mScaleFaction)
-            mContentView.scaleX = floatEvaluator.evaluate(fraction, 1f, mScaleFaction)
 
         }
 
         override fun onViewReleased(releasedChild: View?, xvel: Float, yvel: Float) {
             super.onViewReleased(releasedChild, xvel, yvel)
-            if (releasedChild == mContentView) {
-                if (mLeft <= mRange / 2) {
-
-                    closeMenu()
-                } else {
-                    openMenu()
-                }
-
-                if (xvel < -200 && currentDragState == DragState.isOpened) {
-
-                    closeMenu()
-                }
+            if (mContentView.left < mRange/2){
+                closeMenu()
+            }else{
+                openMenu()
 
             }
+//
         }
 
         override fun getViewHorizontalDragRange(child: View?): Int {
-            return if (child === mContentView) mRange else 0
+            return  mRange
         }
 
     }
@@ -232,8 +279,12 @@ internal class SlidingMenuLayout : FrameLayout, SlideMenuHelper {
     }
 
     override fun onTouchEvent(event: MotionEvent?): Boolean {
+        performClick()
         mViewDragHelper.processTouchEvent(event)
         return true
     }
 
+    override fun performClick(): Boolean {
+        return super.performClick()
+    }
 }

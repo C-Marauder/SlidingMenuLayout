@@ -1,4 +1,4 @@
-package www.xqy.cn.library
+package com.xqy
 
 import android.support.v7.app.AppCompatActivity
 import android.support.v7.widget.Toolbar
@@ -17,12 +17,11 @@ class SlidingMenuBuilder(val activity: AppCompatActivity) {
     private val slidingMenuLayout by lazy {
         SlidingMenuLayout(activity)
     }
-    private val contentView by lazy {
+    private val contentView: ViewGroup by lazy {
         activity.findViewById(android.R.id.content) as ViewGroup
 
     }
-//    private lateinit var mGlSurfaceView: GLSurfaceView
-//    private var mIsEnable: Boolean = false
+
     private var mMenuLayoutId: Int = 0
     private var oldRootView: View
     private var mToolbar: Toolbar? = null
@@ -39,56 +38,37 @@ class SlidingMenuBuilder(val activity: AppCompatActivity) {
 
     }
 
-//    private val supportsEs: Boolean by lazy {
-//        val configurationInfo = App.instance.activityManager.deviceConfigurationInfo
-//        configurationInfo.reqGlEsVersion >= 0x20000
-//    }
-
-//    fun enableStarBackgroud(isEnable: Boolean): SlidingMenuBuilder = apply {
-//        this.mIsEnable = isEnable
-//    }
-
     fun bindMenuView(layoutId: Int) = apply {
         this.mMenuLayoutId = layoutId
     }
-    fun scaleFaction(mScaleFaction :Float): SlidingMenuBuilder = apply {
-        slidingMenuLayout.mScaleFaction = mScaleFaction
+    fun scaleFaction(mMenuScaleFaction :Float,mContentScaleFaction :Float): SlidingMenuBuilder = apply {
+        slidingMenuLayout.mMenuScaleFaction = mMenuScaleFaction
+        slidingMenuLayout.mContentScaleFaction = mContentScaleFaction
+
     }
-    fun translateFaction(mTranslateFaction :Float){
+    fun translateFaction(mTranslateFaction :Float) = apply{
         slidingMenuLayout.mTranslateFaction = mTranslateFaction
     }
-    fun setMenuBackgroud(): SlidingMenuBuilder = apply{
-
+    private var mColorResId:Int = 0
+    fun setMenuBackground(colorResId:Int): SlidingMenuBuilder = apply{
+        this.mColorResId = colorResId
     }
     fun setDragListener(mDragListener: DragListener) : SlidingMenuBuilder = apply{
         slidingMenuLayout.mDragListener = mDragListener
     }
-//    fun setStarPause() {
-//        mGlSurfaceView.onPause()
-//    }
-//
-//    fun setStarResume() {
-//        mGlSurfaceView.onResume()
-//    }
+
 
     fun init() {
-//        if (mIsEnable && supportsEs) {
-//            mGlSurfaceView = GLSurfaceView(activity)
-//            mGlSurfaceView.setEGLContextClientVersion(2)
-//            // Set the renderer to our demo renderer, defined below.
-//            val mRenderer = ParticleSystemRenderer(mGlSurfaceView)
-//            mGlSurfaceView.setRenderer(mRenderer)
-//            mGlSurfaceView.renderMode = GLSurfaceView.RENDERMODE_CONTINUOUSLY
-//            contentView.addView(mGlSurfaceView)
-//
-//        }
+
         initSlidingMenu()
 
     }
 
     private fun initSlidingMenu() {
 
-
+        if (mColorResId != 0){
+            contentView.setBackgroundResource(mColorResId)
+        }
         if (mMenuLayoutId != 0) {
             val menuView = LayoutInflater.from(activity).inflate(mMenuLayoutId, slidingMenuLayout, false)
             slidingMenuLayout.addView(menuView)
@@ -105,9 +85,12 @@ class SlidingMenuBuilder(val activity: AppCompatActivity) {
             if (mNavIcon != 0) mToolbar!!.setNavigationIcon(mNavIcon)
 
             mToolbar!!.setNavigationOnClickListener {
+                if (slidingMenuLayout.currentDragState == DragState.isOpened) {
+                    slidingMenuLayout.closeMenu()
+                } else if(slidingMenuLayout.currentDragState == DragState.isClosed){
+                    slidingMenuLayout.openMenu()
+                }
 
-                if (slidingMenuLayout.currentDragState == SlidingMenuLayout.DragState.isOpened) slidingMenuLayout.closeMenu()
-                else if (slidingMenuLayout.currentDragState == SlidingMenuLayout.DragState.isClosed) slidingMenuLayout.openMenu()
             }
 
         }

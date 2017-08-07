@@ -1,4 +1,4 @@
-package www.xqy.cn.library
+package com.xqy
 
 import android.content.Context
 import android.util.AttributeSet
@@ -13,7 +13,7 @@ import android.widget.FrameLayout
  * ^_^ 今天敲一行代码，明天敲一行代码，到了后天你就会有两行代码。
  */
 internal class SlidingFrameLayout : FrameLayout {
-    private  var mSlidingMenuLayout: SlidingMenuLayout ?= null
+    private lateinit var mSlidingMenuLayout: SlidingMenuLayout
     constructor(context: Context?, attrs: AttributeSet?) : super(context, attrs)
 
     constructor(context: Context?, attrs: AttributeSet?, defStyleAttr: Int) : super(context, attrs, defStyleAttr)
@@ -23,26 +23,22 @@ internal class SlidingFrameLayout : FrameLayout {
         this.mSlidingMenuLayout = mSlidingMenuLayout
     }
     override fun onInterceptTouchEvent(ev: MotionEvent?): Boolean {
-
-        if (mSlidingMenuLayout !=null&& mSlidingMenuLayout!!.currentDragState == SlidingMenuLayout.DragState.isOpened) {
+        if (mSlidingMenuLayout.currentDragState == DragState.isOpened) {
             return true
         }
         return super.onInterceptTouchEvent(ev)
     }
 
     override fun onTouchEvent(event: MotionEvent?): Boolean {
-
-        if (mSlidingMenuLayout !=null&& mSlidingMenuLayout!!.currentDragState == SlidingMenuLayout.DragState.isOpened) {
+        if (mSlidingMenuLayout.currentDragState == DragState.isOpened) {
             when (event!!.action) {
                 MotionEvent.ACTION_DOWN -> {
-
                     performClick()
                     return true
                 }
 
                 MotionEvent.ACTION_UP -> {
-
-                    mSlidingMenuLayout!!.closeMenu()
+                    mSlidingMenuLayout.closeMenu()
                     return true
                 }
 

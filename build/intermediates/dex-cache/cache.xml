@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/crionline/Desktop/SlidingMenu/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/crionline/Desktop/SlidingMenu/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_df89e71c80978b6e7b777e9293fe5bad1af92bcd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/crionline/Desktop/SlidingMenu/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3f77f2a66379d1ff375b1b93b54daf96302f2a68">
+        <dex dex="/Users/crionline/Desktop/SlidingMenu/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c22fe54decaca50d4086a62db9898eecd494bb15/classes.dex" />
+    </item>
+
+</items>

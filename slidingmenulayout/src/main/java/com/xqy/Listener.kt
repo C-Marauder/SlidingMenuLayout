@@ -1,5 +1,4 @@
-package www.xqy.cn.library
-
+package com.xqy
 import android.view.View
 
 /**
@@ -9,7 +8,7 @@ import android.view.View
  * @Email 17775621462@163.com
  * ^_^ 今天敲一行代码，明天敲一行代码，到了后天你就会有两行代码。
  */
-interface DragListener {
+ interface DragListener {
     fun onDrag( progress:Float)
     fun isOpened()
     fun isClosed()
@@ -17,11 +16,20 @@ interface DragListener {
 
 
 
-interface SlideMenuHelper{
+internal interface SlideMenuHelper{
+
     var mMenuView:View
     var mContentView:View
-    var mScaleFaction :Float
+    var mMenuScaleFaction :Float
+    var mContentScaleFaction:Float
     var mTranslateFaction:Float
 
+
+}
+
+internal enum class DragState{
+    isOpened,
+    isClosed,
+    isDragging
 
 }
